@@ -1,4 +1,3 @@
-
 // to run this code compile as javac -J-Xss128m filename.java
 import java.util.*;
 
@@ -7,6 +6,7 @@ class Main {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a positive number : ");
         int n = sc.nextInt();
+        sc.close();
         check1(n);
         check2(n);
         check3(n);
@@ -17,7 +17,6 @@ class Main {
         check8(n);
         check9(n);
         check10(n);
-        sc.close();
     }
 
     static void check1(int n) {
