@@ -10045,5997 +10045,3999 @@ class Main {
             System.out.print("Even");
         } else if (n == 5001) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5001) {
+        } else if (n == 5001) {
             System.out.print("Even");
         } else if (n == 5002) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5002) {
+        } else if (n == 5002) {
             System.out.print("Even");
         } else if (n == 5003) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5003) {
+        } else if (n == 5003) {
             System.out.print("Even");
         } else if (n == 5004) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5004) {
+        } else if (n == 5004) {
             System.out.print("Even");
         } else if (n == 5005) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5005) {
+        } else if (n == 5005) {
             System.out.print("Even");
         } else if (n == 5006) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5006) {
+        } else if (n == 5006) {
             System.out.print("Even");
         } else if (n == 5007) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5007) {
+        } else if (n == 5007) {
             System.out.print("Even");
         } else if (n == 5008) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5008) {
+        } else if (n == 5008) {
             System.out.print("Even");
         } else if (n == 5009) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5009) {
+        } else if (n == 5009) {
             System.out.print("Even");
         } else if (n == 5010) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5010) {
+        } else if (n == 5010) {
             System.out.print("Even");
         } else if (n == 5011) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5011) {
+        } else if (n == 5011) {
             System.out.print("Even");
         } else if (n == 5012) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5012) {
+        } else if (n == 5012) {
             System.out.print("Even");
         } else if (n == 5013) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5013) {
+        } else if (n == 5013) {
             System.out.print("Even");
         } else if (n == 5014) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5014) {
+        } else if (n == 5014) {
             System.out.print("Even");
         } else if (n == 5015) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5015) {
+        } else if (n == 5015) {
             System.out.print("Even");
         } else if (n == 5016) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5016) {
+        } else if (n == 5016) {
             System.out.print("Even");
         } else if (n == 5017) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5017) {
+        } else if (n == 5017) {
             System.out.print("Even");
         } else if (n == 5018) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5018) {
+        } else if (n == 5018) {
             System.out.print("Even");
         } else if (n == 5019) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5019) {
+        } else if (n == 5019) {
             System.out.print("Even");
         } else if (n == 5020) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5020) {
+        } else if (n == 5020) {
             System.out.print("Even");
         } else if (n == 5021) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5021) {
+        } else if (n == 5021) {
             System.out.print("Even");
         } else if (n == 5022) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5022) {
+        } else if (n == 5022) {
             System.out.print("Even");
         } else if (n == 5023) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5023) {
+        } else if (n == 5023) {
             System.out.print("Even");
         } else if (n == 5024) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5024) {
+        } else if (n == 5024) {
             System.out.print("Even");
         } else if (n == 5025) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5025) {
+        } else if (n == 5025) {
             System.out.print("Even");
         } else if (n == 5026) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5026) {
+        } else if (n == 5026) {
             System.out.print("Even");
         } else if (n == 5027) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5027) {
+        } else if (n == 5027) {
             System.out.print("Even");
         } else if (n == 5028) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5028) {
+        } else if (n == 5028) {
             System.out.print("Even");
         } else if (n == 5029) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5029) {
+        } else if (n == 5029) {
             System.out.print("Even");
         } else if (n == 5030) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5030) {
+        } else if (n == 5030) {
             System.out.print("Even");
         } else if (n == 5031) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5031) {
+        } else if (n == 5031) {
             System.out.print("Even");
         } else if (n == 5032) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5032) {
+        } else if (n == 5032) {
             System.out.print("Even");
         } else if (n == 5033) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5033) {
+        } else if (n == 5033) {
             System.out.print("Even");
         } else if (n == 5034) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5034) {
+        } else if (n == 5034) {
             System.out.print("Even");
         } else if (n == 5035) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5035) {
+        } else if (n == 5035) {
             System.out.print("Even");
         } else if (n == 5036) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5036) {
+        } else if (n == 5036) {
             System.out.print("Even");
         } else if (n == 5037) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5037) {
+        } else if (n == 5037) {
             System.out.print("Even");
         } else if (n == 5038) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5038) {
+        } else if (n == 5038) {
             System.out.print("Even");
         } else if (n == 5039) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5039) {
+        } else if (n == 5039) {
             System.out.print("Even");
         } else if (n == 5040) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5040) {
+        } else if (n == 5040) {
             System.out.print("Even");
         } else if (n == 5041) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5041) {
+        } else if (n == 5041) {
             System.out.print("Even");
         } else if (n == 5042) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5042) {
+        } else if (n == 5042) {
             System.out.print("Even");
         } else if (n == 5043) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5043) {
+        } else if (n == 5043) {
             System.out.print("Even");
         } else if (n == 5044) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5044) {
+        } else if (n == 5044) {
             System.out.print("Even");
         } else if (n == 5045) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5045) {
+        } else if (n == 5045) {
             System.out.print("Even");
         } else if (n == 5046) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5046) {
+        } else if (n == 5046) {
             System.out.print("Even");
         } else if (n == 5047) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5047) {
+        } else if (n == 5047) {
             System.out.print("Even");
         } else if (n == 5048) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5048) {
+        } else if (n == 5048) {
             System.out.print("Even");
         } else if (n == 5049) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5049) {
+        } else if (n == 5049) {
             System.out.print("Even");
         } else if (n == 5050) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5050) {
+        } else if (n == 5050) {
             System.out.print("Even");
         } else if (n == 5051) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5051) {
+        } else if (n == 5051) {
             System.out.print("Even");
         } else if (n == 5052) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5052) {
+        } else if (n == 5052) {
             System.out.print("Even");
         } else if (n == 5053) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5053) {
+        } else if (n == 5053) {
             System.out.print("Even");
         } else if (n == 5054) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5054) {
+        } else if (n == 5054) {
             System.out.print("Even");
         } else if (n == 5055) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5055) {
+        } else if (n == 5055) {
             System.out.print("Even");
         } else if (n == 5056) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5056) {
+        } else if (n == 5056) {
             System.out.print("Even");
         } else if (n == 5057) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5057) {
+        } else if (n == 5057) {
             System.out.print("Even");
         } else if (n == 5058) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5058) {
+        } else if (n == 5058) {
             System.out.print("Even");
         } else if (n == 5059) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5059) {
+        } else if (n == 5059) {
             System.out.print("Even");
         } else if (n == 5060) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5060) {
+        } else if (n == 5060) {
             System.out.print("Even");
         } else if (n == 5061) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5061) {
+        } else if (n == 5061) {
             System.out.print("Even");
         } else if (n == 5062) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5062) {
+        } else if (n == 5062) {
             System.out.print("Even");
         } else if (n == 5063) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5063) {
+        } else if (n == 5063) {
             System.out.print("Even");
         } else if (n == 5064) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5064) {
+        } else if (n == 5064) {
             System.out.print("Even");
         } else if (n == 5065) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5065) {
+        } else if (n == 5065) {
             System.out.print("Even");
         } else if (n == 5066) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5066) {
+        } else if (n == 5066) {
             System.out.print("Even");
         } else if (n == 5067) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5067) {
+        } else if (n == 5067) {
             System.out.print("Even");
         } else if (n == 5068) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5068) {
+        } else if (n == 5068) {
             System.out.print("Even");
         } else if (n == 5069) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5069) {
+        } else if (n == 5069) {
             System.out.print("Even");
         } else if (n == 5070) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5070) {
+        } else if (n == 5070) {
             System.out.print("Even");
         } else if (n == 5071) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5071) {
+        } else if (n == 5071) {
             System.out.print("Even");
         } else if (n == 5072) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5072) {
+        } else if (n == 5072) {
             System.out.print("Even");
         } else if (n == 5073) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5073) {
+        } else if (n == 5073) {
             System.out.print("Even");
         } else if (n == 5074) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5074) {
+        } else if (n == 5074) {
             System.out.print("Even");
         } else if (n == 5075) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5075) {
+        } else if (n == 5075) {
             System.out.print("Even");
         } else if (n == 5076) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5076) {
+        } else if (n == 5076) {
             System.out.print("Even");
         } else if (n == 5077) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5077) {
+        } else if (n == 5077) {
             System.out.print("Even");
         } else if (n == 5078) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5078) {
+        } else if (n == 5078) {
             System.out.print("Even");
         } else if (n == 5079) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5079) {
+        } else if (n == 5079) {
             System.out.print("Even");
         } else if (n == 5080) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5080) {
+        } else if (n == 5080) {
             System.out.print("Even");
         } else if (n == 5081) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5081) {
+        } else if (n == 5081) {
             System.out.print("Even");
         } else if (n == 5082) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5082) {
+        } else if (n == 5082) {
             System.out.print("Even");
         } else if (n == 5083) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5083) {
+        } else if (n == 5083) {
             System.out.print("Even");
         } else if (n == 5084) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5084) {
+        } else if (n == 5084) {
             System.out.print("Even");
         } else if (n == 5085) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5085) {
+        } else if (n == 5085) {
             System.out.print("Even");
         } else if (n == 5086) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5086) {
+        } else if (n == 5086) {
             System.out.print("Even");
         } else if (n == 5087) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5087) {
+        } else if (n == 5087) {
             System.out.print("Even");
         } else if (n == 5088) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5088) {
+        } else if (n == 5088) {
             System.out.print("Even");
         } else if (n == 5089) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5089) {
+        } else if (n == 5089) {
             System.out.print("Even");
         } else if (n == 5090) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5090) {
+        } else if (n == 5090) {
             System.out.print("Even");
         } else if (n == 5091) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5091) {
+        } else if (n == 5091) {
             System.out.print("Even");
         } else if (n == 5092) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5092) {
+        } else if (n == 5092) {
             System.out.print("Even");
         } else if (n == 5093) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5093) {
+        } else if (n == 5093) {
             System.out.print("Even");
         } else if (n == 5094) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5094) {
+        } else if (n == 5094) {
             System.out.print("Even");
         } else if (n == 5095) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5095) {
+        } else if (n == 5095) {
             System.out.print("Even");
         } else if (n == 5096) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5096) {
+        } else if (n == 5096) {
             System.out.print("Even");
         } else if (n == 5097) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5097) {
+        } else if (n == 5097) {
             System.out.print("Even");
         } else if (n == 5098) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5098) {
+        } else if (n == 5098) {
             System.out.print("Even");
         } else if (n == 5099) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5099) {
+        } else if (n == 5099) {
             System.out.print("Even");
         } else if (n == 5100) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5100) {
+        } else if (n == 5100) {
             System.out.print("Even");
         } else if (n == 5101) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5101) {
+        } else if (n == 5101) {
             System.out.print("Even");
         } else if (n == 5102) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5102) {
+        } else if (n == 5102) {
             System.out.print("Even");
         } else if (n == 5103) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5103) {
+        } else if (n == 5103) {
             System.out.print("Even");
         } else if (n == 5104) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5104) {
+        } else if (n == 5104) {
             System.out.print("Even");
         } else if (n == 5105) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5105) {
+        } else if (n == 5105) {
             System.out.print("Even");
         } else if (n == 5106) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5106) {
+        } else if (n == 5106) {
             System.out.print("Even");
         } else if (n == 5107) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5107) {
+        } else if (n == 5107) {
             System.out.print("Even");
         } else if (n == 5108) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5108) {
+        } else if (n == 5108) {
             System.out.print("Even");
         } else if (n == 5109) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5109) {
+        } else if (n == 5109) {
             System.out.print("Even");
         } else if (n == 5110) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5110) {
+        } else if (n == 5110) {
             System.out.print("Even");
         } else if (n == 5111) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5111) {
+        } else if (n == 5111) {
             System.out.print("Even");
         } else if (n == 5112) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5112) {
+        } else if (n == 5112) {
             System.out.print("Even");
         } else if (n == 5113) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5113) {
+        } else if (n == 5113) {
             System.out.print("Even");
         } else if (n == 5114) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5114) {
+        } else if (n == 5114) {
             System.out.print("Even");
         } else if (n == 5115) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5115) {
+        } else if (n == 5115) {
             System.out.print("Even");
         } else if (n == 5116) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5116) {
+        } else if (n == 5116) {
             System.out.print("Even");
         } else if (n == 5117) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5117) {
+        } else if (n == 5117) {
             System.out.print("Even");
         } else if (n == 5118) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5118) {
+        } else if (n == 5118) {
             System.out.print("Even");
         } else if (n == 5119) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5119) {
+        } else if (n == 5119) {
             System.out.print("Even");
         } else if (n == 5120) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5120) {
+        } else if (n == 5120) {
             System.out.print("Even");
         } else if (n == 5121) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5121) {
+        } else if (n == 5121) {
             System.out.print("Even");
         } else if (n == 5122) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5122) {
+        } else if (n == 5122) {
             System.out.print("Even");
         } else if (n == 5123) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5123) {
+        } else if (n == 5123) {
             System.out.print("Even");
         } else if (n == 5124) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5124) {
+        } else if (n == 5124) {
             System.out.print("Even");
         } else if (n == 5125) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5125) {
+        } else if (n == 5125) {
             System.out.print("Even");
         } else if (n == 5126) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5126) {
+        } else if (n == 5126) {
             System.out.print("Even");
         } else if (n == 5127) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5127) {
+        } else if (n == 5127) {
             System.out.print("Even");
         } else if (n == 5128) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5128) {
+        } else if (n == 5128) {
             System.out.print("Even");
         } else if (n == 5129) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5129) {
+        } else if (n == 5129) {
             System.out.print("Even");
         } else if (n == 5130) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5130) {
+        } else if (n == 5130) {
             System.out.print("Even");
         } else if (n == 5131) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5131) {
+        } else if (n == 5131) {
             System.out.print("Even");
         } else if (n == 5132) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5132) {
+        } else if (n == 5132) {
             System.out.print("Even");
         } else if (n == 5133) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5133) {
+        } else if (n == 5133) {
             System.out.print("Even");
         } else if (n == 5134) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5134) {
+        } else if (n == 5134) {
             System.out.print("Even");
         } else if (n == 5135) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5135) {
+        } else if (n == 5135) {
             System.out.print("Even");
         } else if (n == 5136) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5136) {
+        } else if (n == 5136) {
             System.out.print("Even");
         } else if (n == 5137) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5137) {
+        } else if (n == 5137) {
             System.out.print("Even");
         } else if (n == 5138) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5138) {
+        } else if (n == 5138) {
             System.out.print("Even");
         } else if (n == 5139) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5139) {
+        } else if (n == 5139) {
             System.out.print("Even");
         } else if (n == 5140) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5140) {
+        } else if (n == 5140) {
             System.out.print("Even");
         } else if (n == 5141) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5141) {
+        } else if (n == 5141) {
             System.out.print("Even");
         } else if (n == 5142) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5142) {
+        } else if (n == 5142) {
             System.out.print("Even");
         } else if (n == 5143) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5143) {
+        } else if (n == 5143) {
             System.out.print("Even");
         } else if (n == 5144) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5144) {
+        } else if (n == 5144) {
             System.out.print("Even");
         } else if (n == 5145) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5145) {
+        } else if (n == 5145) {
             System.out.print("Even");
         } else if (n == 5146) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5146) {
+        } else if (n == 5146) {
             System.out.print("Even");
         } else if (n == 5147) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5147) {
+        } else if (n == 5147) {
             System.out.print("Even");
         } else if (n == 5148) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5148) {
+        } else if (n == 5148) {
             System.out.print("Even");
         } else if (n == 5149) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5149) {
+        } else if (n == 5149) {
             System.out.print("Even");
         } else if (n == 5150) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5150) {
+        } else if (n == 5150) {
             System.out.print("Even");
         } else if (n == 5151) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5151) {
+        } else if (n == 5151) {
             System.out.print("Even");
         } else if (n == 5152) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5152) {
+        } else if (n == 5152) {
             System.out.print("Even");
         } else if (n == 5153) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5153) {
+        } else if (n == 5153) {
             System.out.print("Even");
         } else if (n == 5154) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5154) {
+        } else if (n == 5154) {
             System.out.print("Even");
         } else if (n == 5155) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5155) {
+        } else if (n == 5155) {
             System.out.print("Even");
         } else if (n == 5156) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5156) {
+        } else if (n == 5156) {
             System.out.print("Even");
         } else if (n == 5157) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5157) {
+        } else if (n == 5157) {
             System.out.print("Even");
         } else if (n == 5158) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5158) {
+        } else if (n == 5158) {
             System.out.print("Even");
         } else if (n == 5159) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5159) {
+        } else if (n == 5159) {
             System.out.print("Even");
         } else if (n == 5160) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5160) {
+        } else if (n == 5160) {
             System.out.print("Even");
         } else if (n == 5161) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5161) {
+        } else if (n == 5161) {
             System.out.print("Even");
         } else if (n == 5162) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5162) {
+        } else if (n == 5162) {
             System.out.print("Even");
         } else if (n == 5163) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5163) {
+        } else if (n == 5163) {
             System.out.print("Even");
         } else if (n == 5164) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5164) {
+        } else if (n == 5164) {
             System.out.print("Even");
         } else if (n == 5165) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5165) {
+        } else if (n == 5165) {
             System.out.print("Even");
         } else if (n == 5166) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5166) {
+        } else if (n == 5166) {
             System.out.print("Even");
         } else if (n == 5167) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5167) {
+        } else if (n == 5167) {
             System.out.print("Even");
         } else if (n == 5168) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5168) {
+        } else if (n == 5168) {
             System.out.print("Even");
         } else if (n == 5169) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5169) {
+        } else if (n == 5169) {
             System.out.print("Even");
         } else if (n == 5170) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5170) {
+        } else if (n == 5170) {
             System.out.print("Even");
         } else if (n == 5171) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5171) {
+        } else if (n == 5171) {
             System.out.print("Even");
         } else if (n == 5172) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5172) {
+        } else if (n == 5172) {
             System.out.print("Even");
         } else if (n == 5173) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5173) {
+        } else if (n == 5173) {
             System.out.print("Even");
         } else if (n == 5174) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5174) {
+        } else if (n == 5174) {
             System.out.print("Even");
         } else if (n == 5175) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5175) {
+        } else if (n == 5175) {
             System.out.print("Even");
         } else if (n == 5176) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5176) {
+        } else if (n == 5176) {
             System.out.print("Even");
         } else if (n == 5177) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5177) {
+        } else if (n == 5177) {
             System.out.print("Even");
         } else if (n == 5178) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5178) {
+        } else if (n == 5178) {
             System.out.print("Even");
         } else if (n == 5179) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5179) {
+        } else if (n == 5179) {
             System.out.print("Even");
         } else if (n == 5180) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5180) {
+        } else if (n == 5180) {
             System.out.print("Even");
         } else if (n == 5181) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5181) {
+        } else if (n == 5181) {
             System.out.print("Even");
         } else if (n == 5182) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5182) {
+        } else if (n == 5182) {
             System.out.print("Even");
         } else if (n == 5183) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5183) {
+        } else if (n == 5183) {
             System.out.print("Even");
         } else if (n == 5184) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5184) {
+        } else if (n == 5184) {
             System.out.print("Even");
         } else if (n == 5185) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5185) {
+        } else if (n == 5185) {
             System.out.print("Even");
         } else if (n == 5186) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5186) {
+        } else if (n == 5186) {
             System.out.print("Even");
         } else if (n == 5187) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5187) {
+        } else if (n == 5187) {
             System.out.print("Even");
         } else if (n == 5188) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5188) {
+        } else if (n == 5188) {
             System.out.print("Even");
         } else if (n == 5189) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5189) {
+        } else if (n == 5189) {
             System.out.print("Even");
         } else if (n == 5190) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5190) {
+        } else if (n == 5190) {
             System.out.print("Even");
         } else if (n == 5191) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5191) {
+        } else if (n == 5191) {
             System.out.print("Even");
         } else if (n == 5192) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5192) {
+        } else if (n == 5192) {
             System.out.print("Even");
         } else if (n == 5193) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5193) {
+        } else if (n == 5193) {
             System.out.print("Even");
         } else if (n == 5194) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5194) {
+        } else if (n == 5194) {
             System.out.print("Even");
         } else if (n == 5195) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5195) {
+        } else if (n == 5195) {
             System.out.print("Even");
         } else if (n == 5196) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5196) {
+        } else if (n == 5196) {
             System.out.print("Even");
         } else if (n == 5197) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5197) {
+        } else if (n == 5197) {
             System.out.print("Even");
         } else if (n == 5198) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5198) {
+        } else if (n == 5198) {
             System.out.print("Even");
         } else if (n == 5199) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5199) {
+        } else if (n == 5199) {
             System.out.print("Even");
         } else if (n == 5200) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5200) {
+        } else if (n == 5200) {
             System.out.print("Even");
         } else if (n == 5201) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5201) {
+        } else if (n == 5201) {
             System.out.print("Even");
         } else if (n == 5202) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5202) {
+        } else if (n == 5202) {
             System.out.print("Even");
         } else if (n == 5203) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5203) {
+        } else if (n == 5203) {
             System.out.print("Even");
         } else if (n == 5204) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5204) {
+        } else if (n == 5204) {
             System.out.print("Even");
         } else if (n == 5205) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5205) {
+        } else if (n == 5205) {
             System.out.print("Even");
         } else if (n == 5206) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5206) {
+        } else if (n == 5206) {
             System.out.print("Even");
         } else if (n == 5207) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5207) {
+        } else if (n == 5207) {
             System.out.print("Even");
         } else if (n == 5208) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5208) {
+        } else if (n == 5208) {
             System.out.print("Even");
         } else if (n == 5209) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5209) {
+        } else if (n == 5209) {
             System.out.print("Even");
         } else if (n == 5210) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5210) {
+        } else if (n == 5210) {
             System.out.print("Even");
         } else if (n == 5211) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5211) {
+        } else if (n == 5211) {
             System.out.print("Even");
         } else if (n == 5212) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5212) {
+        } else if (n == 5212) {
             System.out.print("Even");
         } else if (n == 5213) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5213) {
+        } else if (n == 5213) {
             System.out.print("Even");
         } else if (n == 5214) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5214) {
+        } else if (n == 5214) {
             System.out.print("Even");
         } else if (n == 5215) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5215) {
+        } else if (n == 5215) {
             System.out.print("Even");
         } else if (n == 5216) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5216) {
+        } else if (n == 5216) {
             System.out.print("Even");
         } else if (n == 5217) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5217) {
+        } else if (n == 5217) {
             System.out.print("Even");
         } else if (n == 5218) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5218) {
+        } else if (n == 5218) {
             System.out.print("Even");
         } else if (n == 5219) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5219) {
+        } else if (n == 5219) {
             System.out.print("Even");
         } else if (n == 5220) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5220) {
+        } else if (n == 5220) {
             System.out.print("Even");
         } else if (n == 5221) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5221) {
+        } else if (n == 5221) {
             System.out.print("Even");
         } else if (n == 5222) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5222) {
+        } else if (n == 5222) {
             System.out.print("Even");
         } else if (n == 5223) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5223) {
+        } else if (n == 5223) {
             System.out.print("Even");
         } else if (n == 5224) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5224) {
+        } else if (n == 5224) {
             System.out.print("Even");
         } else if (n == 5225) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5225) {
+        } else if (n == 5225) {
             System.out.print("Even");
         } else if (n == 5226) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5226) {
+        } else if (n == 5226) {
             System.out.print("Even");
         } else if (n == 5227) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5227) {
+        } else if (n == 5227) {
             System.out.print("Even");
         } else if (n == 5228) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5228) {
+        } else if (n == 5228) {
             System.out.print("Even");
         } else if (n == 5229) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5229) {
+        } else if (n == 5229) {
             System.out.print("Even");
         } else if (n == 5230) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5230) {
+        } else if (n == 5230) {
             System.out.print("Even");
         } else if (n == 5231) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5231) {
+        } else if (n == 5231) {
             System.out.print("Even");
         } else if (n == 5232) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5232) {
+        } else if (n == 5232) {
             System.out.print("Even");
         } else if (n == 5233) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5233) {
+        } else if (n == 5233) {
             System.out.print("Even");
         } else if (n == 5234) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5234) {
+        } else if (n == 5234) {
             System.out.print("Even");
         } else if (n == 5235) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5235) {
+        } else if (n == 5235) {
             System.out.print("Even");
         } else if (n == 5236) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5236) {
+        } else if (n == 5236) {
             System.out.print("Even");
         } else if (n == 5237) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5237) {
+        } else if (n == 5237) {
             System.out.print("Even");
         } else if (n == 5238) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5238) {
+        } else if (n == 5238) {
             System.out.print("Even");
         } else if (n == 5239) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5239) {
+        } else if (n == 5239) {
             System.out.print("Even");
         } else if (n == 5240) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5240) {
+        } else if (n == 5240) {
             System.out.print("Even");
         } else if (n == 5241) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5241) {
+        } else if (n == 5241) {
             System.out.print("Even");
         } else if (n == 5242) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5242) {
+        } else if (n == 5242) {
             System.out.print("Even");
         } else if (n == 5243) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5243) {
+        } else if (n == 5243) {
             System.out.print("Even");
         } else if (n == 5244) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5244) {
+        } else if (n == 5244) {
             System.out.print("Even");
         } else if (n == 5245) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5245) {
+        } else if (n == 5245) {
             System.out.print("Even");
         } else if (n == 5246) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5246) {
+        } else if (n == 5246) {
             System.out.print("Even");
         } else if (n == 5247) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5247) {
+        } else if (n == 5247) {
             System.out.print("Even");
         } else if (n == 5248) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5248) {
+        } else if (n == 5248) {
             System.out.print("Even");
         } else if (n == 5249) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5249) {
+        } else if (n == 5249) {
             System.out.print("Even");
         } else if (n == 5250) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5250) {
+        } else if (n == 5250) {
             System.out.print("Even");
         } else if (n == 5251) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5251) {
+        } else if (n == 5251) {
             System.out.print("Even");
         } else if (n == 5252) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5252) {
+        } else if (n == 5252) {
             System.out.print("Even");
         } else if (n == 5253) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5253) {
+        } else if (n == 5253) {
             System.out.print("Even");
         } else if (n == 5254) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5254) {
+        } else if (n == 5254) {
             System.out.print("Even");
         } else if (n == 5255) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5255) {
+        } else if (n == 5255) {
             System.out.print("Even");
         } else if (n == 5256) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5256) {
+        } else if (n == 5256) {
             System.out.print("Even");
         } else if (n == 5257) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5257) {
+        } else if (n == 5257) {
             System.out.print("Even");
         } else if (n == 5258) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5258) {
+        } else if (n == 5258) {
             System.out.print("Even");
         } else if (n == 5259) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5259) {
+        } else if (n == 5259) {
             System.out.print("Even");
         } else if (n == 5260) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5260) {
+        } else if (n == 5260) {
             System.out.print("Even");
         } else if (n == 5261) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5261) {
+        } else if (n == 5261) {
             System.out.print("Even");
         } else if (n == 5262) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5262) {
+        } else if (n == 5262) {
             System.out.print("Even");
         } else if (n == 5263) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5263) {
+        } else if (n == 5263) {
             System.out.print("Even");
         } else if (n == 5264) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5264) {
+        } else if (n == 5264) {
             System.out.print("Even");
         } else if (n == 5265) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5265) {
+        } else if (n == 5265) {
             System.out.print("Even");
         } else if (n == 5266) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5266) {
+        } else if (n == 5266) {
             System.out.print("Even");
         } else if (n == 5267) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5267) {
+        } else if (n == 5267) {
             System.out.print("Even");
         } else if (n == 5268) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5268) {
+        } else if (n == 5268) {
             System.out.print("Even");
         } else if (n == 5269) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5269) {
+        } else if (n == 5269) {
             System.out.print("Even");
         } else if (n == 5270) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5270) {
+        } else if (n == 5270) {
             System.out.print("Even");
         } else if (n == 5271) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5271) {
+        } else if (n == 5271) {
             System.out.print("Even");
         } else if (n == 5272) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5272) {
+        } else if (n == 5272) {
             System.out.print("Even");
         } else if (n == 5273) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5273) {
+        } else if (n == 5273) {
             System.out.print("Even");
         } else if (n == 5274) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5274) {
+        } else if (n == 5274) {
             System.out.print("Even");
         } else if (n == 5275) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5275) {
+        } else if (n == 5275) {
             System.out.print("Even");
         } else if (n == 5276) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5276) {
+        } else if (n == 5276) {
             System.out.print("Even");
         } else if (n == 5277) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5277) {
+        } else if (n == 5277) {
             System.out.print("Even");
         } else if (n == 5278) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5278) {
+        } else if (n == 5278) {
             System.out.print("Even");
         } else if (n == 5279) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5279) {
+        } else if (n == 5279) {
             System.out.print("Even");
         } else if (n == 5280) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5280) {
+        } else if (n == 5280) {
             System.out.print("Even");
         } else if (n == 5281) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5281) {
+        } else if (n == 5281) {
             System.out.print("Even");
         } else if (n == 5282) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5282) {
+        } else if (n == 5282) {
             System.out.print("Even");
         } else if (n == 5283) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5283) {
+        } else if (n == 5283) {
             System.out.print("Even");
         } else if (n == 5284) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5284) {
+        } else if (n == 5284) {
             System.out.print("Even");
         } else if (n == 5285) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5285) {
+        } else if (n == 5285) {
             System.out.print("Even");
         } else if (n == 5286) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5286) {
+        } else if (n == 5286) {
             System.out.print("Even");
         } else if (n == 5287) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5287) {
+        } else if (n == 5287) {
             System.out.print("Even");
         } else if (n == 5288) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5288) {
+        } else if (n == 5288) {
             System.out.print("Even");
         } else if (n == 5289) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5289) {
+        } else if (n == 5289) {
             System.out.print("Even");
         } else if (n == 5290) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5290) {
+        } else if (n == 5290) {
             System.out.print("Even");
         } else if (n == 5291) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5291) {
+        } else if (n == 5291) {
             System.out.print("Even");
         } else if (n == 5292) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5292) {
+        } else if (n == 5292) {
             System.out.print("Even");
         } else if (n == 5293) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5293) {
+        } else if (n == 5293) {
             System.out.print("Even");
         } else if (n == 5294) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5294) {
+        } else if (n == 5294) {
             System.out.print("Even");
         } else if (n == 5295) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5295) {
+        } else if (n == 5295) {
             System.out.print("Even");
         } else if (n == 5296) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5296) {
+        } else if (n == 5296) {
             System.out.print("Even");
         } else if (n == 5297) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5297) {
+        } else if (n == 5297) {
             System.out.print("Even");
         } else if (n == 5298) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5298) {
+        } else if (n == 5298) {
             System.out.print("Even");
         } else if (n == 5299) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5299) {
+        } else if (n == 5299) {
             System.out.print("Even");
         } else if (n == 5300) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5300) {
+        } else if (n == 5300) {
             System.out.print("Even");
         } else if (n == 5301) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5301) {
+        } else if (n == 5301) {
             System.out.print("Even");
         } else if (n == 5302) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5302) {
+        } else if (n == 5302) {
             System.out.print("Even");
         } else if (n == 5303) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5303) {
+        } else if (n == 5303) {
             System.out.print("Even");
         } else if (n == 5304) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5304) {
+        } else if (n == 5304) {
             System.out.print("Even");
         } else if (n == 5305) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5305) {
+        } else if (n == 5305) {
             System.out.print("Even");
         } else if (n == 5306) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5306) {
+        } else if (n == 5306) {
             System.out.print("Even");
         } else if (n == 5307) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5307) {
+        } else if (n == 5307) {
             System.out.print("Even");
         } else if (n == 5308) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5308) {
+        } else if (n == 5308) {
             System.out.print("Even");
         } else if (n == 5309) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5309) {
+        } else if (n == 5309) {
             System.out.print("Even");
         } else if (n == 5310) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5310) {
+        } else if (n == 5310) {
             System.out.print("Even");
         } else if (n == 5311) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5311) {
+        } else if (n == 5311) {
             System.out.print("Even");
         } else if (n == 5312) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5312) {
+        } else if (n == 5312) {
             System.out.print("Even");
         } else if (n == 5313) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5313) {
+        } else if (n == 5313) {
             System.out.print("Even");
         } else if (n == 5314) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5314) {
+        } else if (n == 5314) {
             System.out.print("Even");
         } else if (n == 5315) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5315) {
+        } else if (n == 5315) {
             System.out.print("Even");
         } else if (n == 5316) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5316) {
+        } else if (n == 5316) {
             System.out.print("Even");
         } else if (n == 5317) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5317) {
+        } else if (n == 5317) {
             System.out.print("Even");
         } else if (n == 5318) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5318) {
+        } else if (n == 5318) {
             System.out.print("Even");
         } else if (n == 5319) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5319) {
+        } else if (n == 5319) {
             System.out.print("Even");
         } else if (n == 5320) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5320) {
+        } else if (n == 5320) {
             System.out.print("Even");
         } else if (n == 5321) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5321) {
+        } else if (n == 5321) {
             System.out.print("Even");
         } else if (n == 5322) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5322) {
+        } else if (n == 5322) {
             System.out.print("Even");
         } else if (n == 5323) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5323) {
+        } else if (n == 5323) {
             System.out.print("Even");
         } else if (n == 5324) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5324) {
+        } else if (n == 5324) {
             System.out.print("Even");
         } else if (n == 5325) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5325) {
+        } else if (n == 5325) {
             System.out.print("Even");
         } else if (n == 5326) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5326) {
+        } else if (n == 5326) {
             System.out.print("Even");
         } else if (n == 5327) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5327) {
+        } else if (n == 5327) {
             System.out.print("Even");
         } else if (n == 5328) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5328) {
+        } else if (n == 5328) {
             System.out.print("Even");
         } else if (n == 5329) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5329) {
+        } else if (n == 5329) {
             System.out.print("Even");
         } else if (n == 5330) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5330) {
+        } else if (n == 5330) {
             System.out.print("Even");
         } else if (n == 5331) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5331) {
+        } else if (n == 5331) {
             System.out.print("Even");
         } else if (n == 5332) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5332) {
+        } else if (n == 5332) {
             System.out.print("Even");
         } else if (n == 5333) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5333) {
+        } else if (n == 5333) {
             System.out.print("Even");
         } else if (n == 5334) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5334) {
+        } else if (n == 5334) {
             System.out.print("Even");
         } else if (n == 5335) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5335) {
+        } else if (n == 5335) {
             System.out.print("Even");
         } else if (n == 5336) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5336) {
+        } else if (n == 5336) {
             System.out.print("Even");
         } else if (n == 5337) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5337) {
+        } else if (n == 5337) {
             System.out.print("Even");
         } else if (n == 5338) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5338) {
+        } else if (n == 5338) {
             System.out.print("Even");
         } else if (n == 5339) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5339) {
+        } else if (n == 5339) {
             System.out.print("Even");
         } else if (n == 5340) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5340) {
+        } else if (n == 5340) {
             System.out.print("Even");
         } else if (n == 5341) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5341) {
+        } else if (n == 5341) {
             System.out.print("Even");
         } else if (n == 5342) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5342) {
+        } else if (n == 5342) {
             System.out.print("Even");
         } else if (n == 5343) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5343) {
+        } else if (n == 5343) {
             System.out.print("Even");
         } else if (n == 5344) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5344) {
+        } else if (n == 5344) {
             System.out.print("Even");
         } else if (n == 5345) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5345) {
+        } else if (n == 5345) {
             System.out.print("Even");
         } else if (n == 5346) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5346) {
+        } else if (n == 5346) {
             System.out.print("Even");
         } else if (n == 5347) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5347) {
+        } else if (n == 5347) {
             System.out.print("Even");
         } else if (n == 5348) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5348) {
+        } else if (n == 5348) {
             System.out.print("Even");
         } else if (n == 5349) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5349) {
+        } else if (n == 5349) {
             System.out.print("Even");
         } else if (n == 5350) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5350) {
+        } else if (n == 5350) {
             System.out.print("Even");
         } else if (n == 5351) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5351) {
+        } else if (n == 5351) {
             System.out.print("Even");
         } else if (n == 5352) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5352) {
+        } else if (n == 5352) {
             System.out.print("Even");
         } else if (n == 5353) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5353) {
+        } else if (n == 5353) {
             System.out.print("Even");
         } else if (n == 5354) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5354) {
+        } else if (n == 5354) {
             System.out.print("Even");
         } else if (n == 5355) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5355) {
+        } else if (n == 5355) {
             System.out.print("Even");
         } else if (n == 5356) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5356) {
+        } else if (n == 5356) {
             System.out.print("Even");
         } else if (n == 5357) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5357) {
+        } else if (n == 5357) {
             System.out.print("Even");
         } else if (n == 5358) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5358) {
+        } else if (n == 5358) {
             System.out.print("Even");
         } else if (n == 5359) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5359) {
+        } else if (n == 5359) {
             System.out.print("Even");
         } else if (n == 5360) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5360) {
+        } else if (n == 5360) {
             System.out.print("Even");
         } else if (n == 5361) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5361) {
+        } else if (n == 5361) {
             System.out.print("Even");
         } else if (n == 5362) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5362) {
+        } else if (n == 5362) {
             System.out.print("Even");
         } else if (n == 5363) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5363) {
+        } else if (n == 5363) {
             System.out.print("Even");
         } else if (n == 5364) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5364) {
+        } else if (n == 5364) {
             System.out.print("Even");
         } else if (n == 5365) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5365) {
+        } else if (n == 5365) {
             System.out.print("Even");
         } else if (n == 5366) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5366) {
+        } else if (n == 5366) {
             System.out.print("Even");
         } else if (n == 5367) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5367) {
+        } else if (n == 5367) {
             System.out.print("Even");
         } else if (n == 5368) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5368) {
+        } else if (n == 5368) {
             System.out.print("Even");
         } else if (n == 5369) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5369) {
+        } else if (n == 5369) {
             System.out.print("Even");
         } else if (n == 5370) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5370) {
+        } else if (n == 5370) {
             System.out.print("Even");
         } else if (n == 5371) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5371) {
+        } else if (n == 5371) {
             System.out.print("Even");
         } else if (n == 5372) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5372) {
+        } else if (n == 5372) {
             System.out.print("Even");
         } else if (n == 5373) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5373) {
+        } else if (n == 5373) {
             System.out.print("Even");
         } else if (n == 5374) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5374) {
+        } else if (n == 5374) {
             System.out.print("Even");
         } else if (n == 5375) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5375) {
+        } else if (n == 5375) {
             System.out.print("Even");
         } else if (n == 5376) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5376) {
+        } else if (n == 5376) {
             System.out.print("Even");
         } else if (n == 5377) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5377) {
+        } else if (n == 5377) {
             System.out.print("Even");
         } else if (n == 5378) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5378) {
+        } else if (n == 5378) {
             System.out.print("Even");
         } else if (n == 5379) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5379) {
+        } else if (n == 5379) {
             System.out.print("Even");
         } else if (n == 5380) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5380) {
+        } else if (n == 5380) {
             System.out.print("Even");
         } else if (n == 5381) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5381) {
+        } else if (n == 5381) {
             System.out.print("Even");
         } else if (n == 5382) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5382) {
+        } else if (n == 5382) {
             System.out.print("Even");
         } else if (n == 5383) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5383) {
+        } else if (n == 5383) {
             System.out.print("Even");
         } else if (n == 5384) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5384) {
+        } else if (n == 5384) {
             System.out.print("Even");
         } else if (n == 5385) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5385) {
+        } else if (n == 5385) {
             System.out.print("Even");
         } else if (n == 5386) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5386) {
+        } else if (n == 5386) {
             System.out.print("Even");
         } else if (n == 5387) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5387) {
+        } else if (n == 5387) {
             System.out.print("Even");
         } else if (n == 5388) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5388) {
+        } else if (n == 5388) {
             System.out.print("Even");
         } else if (n == 5389) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5389) {
+        } else if (n == 5389) {
             System.out.print("Even");
         } else if (n == 5390) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5390) {
+        } else if (n == 5390) {
             System.out.print("Even");
         } else if (n == 5391) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5391) {
+        } else if (n == 5391) {
             System.out.print("Even");
         } else if (n == 5392) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5392) {
+        } else if (n == 5392) {
             System.out.print("Even");
         } else if (n == 5393) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5393) {
+        } else if (n == 5393) {
             System.out.print("Even");
         } else if (n == 5394) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5394) {
+        } else if (n == 5394) {
             System.out.print("Even");
         } else if (n == 5395) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5395) {
+        } else if (n == 5395) {
             System.out.print("Even");
         } else if (n == 5396) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5396) {
+        } else if (n == 5396) {
             System.out.print("Even");
         } else if (n == 5397) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5397) {
+        } else if (n == 5397) {
             System.out.print("Even");
         } else if (n == 5398) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5398) {
+        } else if (n == 5398) {
             System.out.print("Even");
         } else if (n == 5399) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5399) {
+        } else if (n == 5399) {
             System.out.print("Even");
         } else if (n == 5400) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5400) {
+        } else if (n == 5400) {
             System.out.print("Even");
         } else if (n == 5401) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5401) {
+        } else if (n == 5401) {
             System.out.print("Even");
         } else if (n == 5402) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5402) {
+        } else if (n == 5402) {
             System.out.print("Even");
         } else if (n == 5403) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5403) {
+        } else if (n == 5403) {
             System.out.print("Even");
         } else if (n == 5404) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5404) {
+        } else if (n == 5404) {
             System.out.print("Even");
         } else if (n == 5405) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5405) {
+        } else if (n == 5405) {
             System.out.print("Even");
         } else if (n == 5406) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5406) {
+        } else if (n == 5406) {
             System.out.print("Even");
         } else if (n == 5407) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5407) {
+        } else if (n == 5407) {
             System.out.print("Even");
         } else if (n == 5408) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5408) {
+        } else if (n == 5408) {
             System.out.print("Even");
         } else if (n == 5409) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5409) {
+        } else if (n == 5409) {
             System.out.print("Even");
         } else if (n == 5410) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5410) {
+        } else if (n == 5410) {
             System.out.print("Even");
         } else if (n == 5411) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5411) {
+        } else if (n == 5411) {
             System.out.print("Even");
         } else if (n == 5412) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5412) {
+        } else if (n == 5412) {
             System.out.print("Even");
         } else if (n == 5413) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5413) {
+        } else if (n == 5413) {
             System.out.print("Even");
         } else if (n == 5414) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5414) {
+        } else if (n == 5414) {
             System.out.print("Even");
         } else if (n == 5415) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5415) {
+        } else if (n == 5415) {
             System.out.print("Even");
         } else if (n == 5416) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5416) {
+        } else if (n == 5416) {
             System.out.print("Even");
         } else if (n == 5417) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5417) {
+        } else if (n == 5417) {
             System.out.print("Even");
         } else if (n == 5418) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5418) {
+        } else if (n == 5418) {
             System.out.print("Even");
         } else if (n == 5419) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5419) {
+        } else if (n == 5419) {
             System.out.print("Even");
         } else if (n == 5420) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5420) {
+        } else if (n == 5420) {
             System.out.print("Even");
         } else if (n == 5421) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5421) {
+        } else if (n == 5421) {
             System.out.print("Even");
         } else if (n == 5422) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5422) {
+        } else if (n == 5422) {
             System.out.print("Even");
         } else if (n == 5423) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5423) {
+        } else if (n == 5423) {
             System.out.print("Even");
         } else if (n == 5424) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5424) {
+        } else if (n == 5424) {
             System.out.print("Even");
         } else if (n == 5425) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5425) {
+        } else if (n == 5425) {
             System.out.print("Even");
         } else if (n == 5426) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5426) {
+        } else if (n == 5426) {
             System.out.print("Even");
         } else if (n == 5427) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5427) {
+        } else if (n == 5427) {
             System.out.print("Even");
         } else if (n == 5428) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5428) {
+        } else if (n == 5428) {
             System.out.print("Even");
         } else if (n == 5429) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5429) {
+        } else if (n == 5429) {
             System.out.print("Even");
         } else if (n == 5430) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5430) {
+        } else if (n == 5430) {
             System.out.print("Even");
         } else if (n == 5431) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5431) {
+        } else if (n == 5431) {
             System.out.print("Even");
         } else if (n == 5432) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5432) {
+        } else if (n == 5432) {
             System.out.print("Even");
         } else if (n == 5433) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5433) {
+        } else if (n == 5433) {
             System.out.print("Even");
         } else if (n == 5434) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5434) {
+        } else if (n == 5434) {
             System.out.print("Even");
         } else if (n == 5435) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5435) {
+        } else if (n == 5435) {
             System.out.print("Even");
         } else if (n == 5436) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5436) {
+        } else if (n == 5436) {
             System.out.print("Even");
         } else if (n == 5437) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5437) {
+        } else if (n == 5437) {
             System.out.print("Even");
         } else if (n == 5438) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5438) {
+        } else if (n == 5438) {
             System.out.print("Even");
         } else if (n == 5439) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5439) {
+        } else if (n == 5439) {
             System.out.print("Even");
         } else if (n == 5440) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5440) {
+        } else if (n == 5440) {
             System.out.print("Even");
         } else if (n == 5441) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5441) {
+        } else if (n == 5441) {
             System.out.print("Even");
         } else if (n == 5442) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5442) {
+        } else if (n == 5442) {
             System.out.print("Even");
         } else if (n == 5443) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5443) {
+        } else if (n == 5443) {
             System.out.print("Even");
         } else if (n == 5444) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5444) {
+        } else if (n == 5444) {
             System.out.print("Even");
         } else if (n == 5445) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5445) {
+        } else if (n == 5445) {
             System.out.print("Even");
         } else if (n == 5446) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5446) {
+        } else if (n == 5446) {
             System.out.print("Even");
         } else if (n == 5447) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5447) {
+        } else if (n == 5447) {
             System.out.print("Even");
         } else if (n == 5448) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5448) {
+        } else if (n == 5448) {
             System.out.print("Even");
         } else if (n == 5449) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5449) {
+        } else if (n == 5449) {
             System.out.print("Even");
         } else if (n == 5450) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5450) {
+        } else if (n == 5450) {
             System.out.print("Even");
         } else if (n == 5451) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5451) {
+        } else if (n == 5451) {
             System.out.print("Even");
         } else if (n == 5452) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5452) {
+        } else if (n == 5452) {
             System.out.print("Even");
         } else if (n == 5453) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5453) {
+        } else if (n == 5453) {
             System.out.print("Even");
         } else if (n == 5454) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5454) {
+        } else if (n == 5454) {
             System.out.print("Even");
         } else if (n == 5455) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5455) {
+        } else if (n == 5455) {
             System.out.print("Even");
         } else if (n == 5456) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5456) {
+        } else if (n == 5456) {
             System.out.print("Even");
         } else if (n == 5457) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5457) {
+        } else if (n == 5457) {
             System.out.print("Even");
         } else if (n == 5458) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5458) {
+        } else if (n == 5458) {
             System.out.print("Even");
         } else if (n == 5459) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5459) {
+        } else if (n == 5459) {
             System.out.print("Even");
         } else if (n == 5460) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5460) {
+        } else if (n == 5460) {
             System.out.print("Even");
         } else if (n == 5461) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5461) {
+        } else if (n == 5461) {
             System.out.print("Even");
         } else if (n == 5462) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5462) {
+        } else if (n == 5462) {
             System.out.print("Even");
         } else if (n == 5463) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5463) {
+        } else if (n == 5463) {
             System.out.print("Even");
         } else if (n == 5464) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5464) {
+        } else if (n == 5464) {
             System.out.print("Even");
         } else if (n == 5465) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5465) {
+        } else if (n == 5465) {
             System.out.print("Even");
         } else if (n == 5466) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5466) {
+        } else if (n == 5466) {
             System.out.print("Even");
         } else if (n == 5467) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5467) {
+        } else if (n == 5467) {
             System.out.print("Even");
         } else if (n == 5468) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5468) {
+        } else if (n == 5468) {
             System.out.print("Even");
         } else if (n == 5469) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5469) {
+        } else if (n == 5469) {
             System.out.print("Even");
         } else if (n == 5470) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5470) {
+        } else if (n == 5470) {
             System.out.print("Even");
         } else if (n == 5471) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5471) {
+        } else if (n == 5471) {
             System.out.print("Even");
         } else if (n == 5472) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5472) {
+        } else if (n == 5472) {
             System.out.print("Even");
         } else if (n == 5473) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5473) {
+        } else if (n == 5473) {
             System.out.print("Even");
         } else if (n == 5474) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5474) {
+        } else if (n == 5474) {
             System.out.print("Even");
         } else if (n == 5475) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5475) {
+        } else if (n == 5475) {
             System.out.print("Even");
         } else if (n == 5476) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5476) {
+        } else if (n == 5476) {
             System.out.print("Even");
         } else if (n == 5477) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5477) {
+        } else if (n == 5477) {
             System.out.print("Even");
         } else if (n == 5478) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5478) {
+        } else if (n == 5478) {
             System.out.print("Even");
         } else if (n == 5479) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5479) {
+        } else if (n == 5479) {
             System.out.print("Even");
         } else if (n == 5480) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5480) {
+        } else if (n == 5480) {
             System.out.print("Even");
         } else if (n == 5481) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5481) {
+        } else if (n == 5481) {
             System.out.print("Even");
         } else if (n == 5482) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5482) {
+        } else if (n == 5482) {
             System.out.print("Even");
         } else if (n == 5483) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5483) {
+        } else if (n == 5483) {
             System.out.print("Even");
         } else if (n == 5484) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5484) {
+        } else if (n == 5484) {
             System.out.print("Even");
         } else if (n == 5485) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5485) {
+        } else if (n == 5485) {
             System.out.print("Even");
         } else if (n == 5486) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5486) {
+        } else if (n == 5486) {
             System.out.print("Even");
         } else if (n == 5487) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5487) {
+        } else if (n == 5487) {
             System.out.print("Even");
         } else if (n == 5488) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5488) {
+        } else if (n == 5488) {
             System.out.print("Even");
         } else if (n == 5489) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5489) {
+        } else if (n == 5489) {
             System.out.print("Even");
         } else if (n == 5490) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5490) {
+        } else if (n == 5490) {
             System.out.print("Even");
         } else if (n == 5491) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5491) {
+        } else if (n == 5491) {
             System.out.print("Even");
         } else if (n == 5492) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5492) {
+        } else if (n == 5492) {
             System.out.print("Even");
         } else if (n == 5493) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5493) {
+        } else if (n == 5493) {
             System.out.print("Even");
         } else if (n == 5494) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5494) {
+        } else if (n == 5494) {
             System.out.print("Even");
         } else if (n == 5495) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5495) {
+        } else if (n == 5495) {
             System.out.print("Even");
         } else if (n == 5496) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5496) {
+        } else if (n == 5496) {
             System.out.print("Even");
         } else if (n == 5497) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5497) {
+        } else if (n == 5497) {
             System.out.print("Even");
         } else if (n == 5498) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5498) {
+        } else if (n == 5498) {
             System.out.print("Even");
         } else if (n == 5499) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5499) {
+        } else if (n == 5499) {
             System.out.print("Even");
         } else if (n == 5500) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5500) {
+        } else if (n == 5500) {
             System.out.print("Even");
         } else if (n == 5501) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5501) {
+        } else if (n == 5501) {
             System.out.print("Even");
         } else if (n == 5502) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5502) {
+        } else if (n == 5502) {
             System.out.print("Even");
         } else if (n == 5503) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5503) {
+        } else if (n == 5503) {
             System.out.print("Even");
         } else if (n == 5504) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5504) {
+        } else if (n == 5504) {
             System.out.print("Even");
         } else if (n == 5505) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5505) {
+        } else if (n == 5505) {
             System.out.print("Even");
         } else if (n == 5506) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5506) {
+        } else if (n == 5506) {
             System.out.print("Even");
         } else if (n == 5507) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5507) {
+        } else if (n == 5507) {
             System.out.print("Even");
         } else if (n == 5508) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5508) {
+        } else if (n == 5508) {
             System.out.print("Even");
         } else if (n == 5509) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5509) {
+        } else if (n == 5509) {
             System.out.print("Even");
         } else if (n == 5510) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5510) {
+        } else if (n == 5510) {
             System.out.print("Even");
         } else if (n == 5511) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5511) {
+        } else if (n == 5511) {
             System.out.print("Even");
         } else if (n == 5512) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5512) {
+        } else if (n == 5512) {
             System.out.print("Even");
         } else if (n == 5513) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5513) {
+        } else if (n == 5513) {
             System.out.print("Even");
         } else if (n == 5514) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5514) {
+        } else if (n == 5514) {
             System.out.print("Even");
         } else if (n == 5515) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5515) {
+        } else if (n == 5515) {
             System.out.print("Even");
         } else if (n == 5516) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5516) {
+        } else if (n == 5516) {
             System.out.print("Even");
         } else if (n == 5517) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5517) {
+        } else if (n == 5517) {
             System.out.print("Even");
         } else if (n == 5518) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5518) {
+        } else if (n == 5518) {
             System.out.print("Even");
         } else if (n == 5519) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5519) {
+        } else if (n == 5519) {
             System.out.print("Even");
         } else if (n == 5520) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5520) {
+        } else if (n == 5520) {
             System.out.print("Even");
         } else if (n == 5521) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5521) {
+        } else if (n == 5521) {
             System.out.print("Even");
         } else if (n == 5522) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5522) {
+        } else if (n == 5522) {
             System.out.print("Even");
         } else if (n == 5523) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5523) {
+        } else if (n == 5523) {
             System.out.print("Even");
         } else if (n == 5524) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5524) {
+        } else if (n == 5524) {
             System.out.print("Even");
         } else if (n == 5525) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5525) {
+        } else if (n == 5525) {
             System.out.print("Even");
         } else if (n == 5526) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5526) {
+        } else if (n == 5526) {
             System.out.print("Even");
         } else if (n == 5527) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5527) {
+        } else if (n == 5527) {
             System.out.print("Even");
         } else if (n == 5528) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5528) {
+        } else if (n == 5528) {
             System.out.print("Even");
         } else if (n == 5529) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5529) {
+        } else if (n == 5529) {
             System.out.print("Even");
         } else if (n == 5530) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5530) {
+        } else if (n == 5530) {
             System.out.print("Even");
         } else if (n == 5531) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5531) {
+        } else if (n == 5531) {
             System.out.print("Even");
         } else if (n == 5532) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5532) {
+        } else if (n == 5532) {
             System.out.print("Even");
         } else if (n == 5533) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5533) {
+        } else if (n == 5533) {
             System.out.print("Even");
         } else if (n == 5534) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5534) {
+        } else if (n == 5534) {
             System.out.print("Even");
         } else if (n == 5535) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5535) {
+        } else if (n == 5535) {
             System.out.print("Even");
         } else if (n == 5536) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5536) {
+        } else if (n == 5536) {
             System.out.print("Even");
         } else if (n == 5537) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5537) {
+        } else if (n == 5537) {
             System.out.print("Even");
         } else if (n == 5538) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5538) {
+        } else if (n == 5538) {
             System.out.print("Even");
         } else if (n == 5539) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5539) {
+        } else if (n == 5539) {
             System.out.print("Even");
         } else if (n == 5540) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5540) {
+        } else if (n == 5540) {
             System.out.print("Even");
         } else if (n == 5541) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5541) {
+        } else if (n == 5541) {
             System.out.print("Even");
         } else if (n == 5542) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5542) {
+        } else if (n == 5542) {
             System.out.print("Even");
         } else if (n == 5543) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5543) {
+        } else if (n == 5543) {
             System.out.print("Even");
         } else if (n == 5544) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5544) {
+        } else if (n == 5544) {
             System.out.print("Even");
         } else if (n == 5545) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5545) {
+        } else if (n == 5545) {
             System.out.print("Even");
         } else if (n == 5546) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5546) {
+        } else if (n == 5546) {
             System.out.print("Even");
         } else if (n == 5547) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5547) {
+        } else if (n == 5547) {
             System.out.print("Even");
         } else if (n == 5548) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5548) {
+        } else if (n == 5548) {
             System.out.print("Even");
         } else if (n == 5549) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5549) {
+        } else if (n == 5549) {
             System.out.print("Even");
         } else if (n == 5550) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5550) {
+        } else if (n == 5550) {
             System.out.print("Even");
         } else if (n == 5551) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5551) {
+        } else if (n == 5551) {
             System.out.print("Even");
         } else if (n == 5552) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5552) {
+        } else if (n == 5552) {
             System.out.print("Even");
         } else if (n == 5553) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5553) {
+        } else if (n == 5553) {
             System.out.print("Even");
         } else if (n == 5554) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5554) {
+        } else if (n == 5554) {
             System.out.print("Even");
         } else if (n == 5555) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5555) {
+        } else if (n == 5555) {
             System.out.print("Even");
         } else if (n == 5556) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5556) {
+        } else if (n == 5556) {
             System.out.print("Even");
         } else if (n == 5557) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5557) {
+        } else if (n == 5557) {
             System.out.print("Even");
         } else if (n == 5558) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5558) {
+        } else if (n == 5558) {
             System.out.print("Even");
         } else if (n == 5559) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5559) {
+        } else if (n == 5559) {
             System.out.print("Even");
         } else if (n == 5560) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5560) {
+        } else if (n == 5560) {
             System.out.print("Even");
         } else if (n == 5561) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5561) {
+        } else if (n == 5561) {
             System.out.print("Even");
         } else if (n == 5562) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5562) {
+        } else if (n == 5562) {
             System.out.print("Even");
         } else if (n == 5563) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5563) {
+        } else if (n == 5563) {
             System.out.print("Even");
         } else if (n == 5564) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5564) {
+        } else if (n == 5564) {
             System.out.print("Even");
         } else if (n == 5565) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5565) {
+        } else if (n == 5565) {
             System.out.print("Even");
         } else if (n == 5566) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5566) {
+        } else if (n == 5566) {
             System.out.print("Even");
         } else if (n == 5567) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5567) {
+        } else if (n == 5567) {
             System.out.print("Even");
         } else if (n == 5568) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5568) {
+        } else if (n == 5568) {
             System.out.print("Even");
         } else if (n == 5569) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5569) {
+        } else if (n == 5569) {
             System.out.print("Even");
         } else if (n == 5570) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5570) {
+        } else if (n == 5570) {
             System.out.print("Even");
         } else if (n == 5571) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5571) {
+        } else if (n == 5571) {
             System.out.print("Even");
         } else if (n == 5572) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5572) {
+        } else if (n == 5572) {
             System.out.print("Even");
         } else if (n == 5573) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5573) {
+        } else if (n == 5573) {
             System.out.print("Even");
         } else if (n == 5574) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5574) {
+        } else if (n == 5574) {
             System.out.print("Even");
         } else if (n == 5575) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5575) {
+        } else if (n == 5575) {
             System.out.print("Even");
         } else if (n == 5576) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5576) {
+        } else if (n == 5576) {
             System.out.print("Even");
         } else if (n == 5577) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5577) {
+        } else if (n == 5577) {
             System.out.print("Even");
         } else if (n == 5578) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5578) {
+        } else if (n == 5578) {
             System.out.print("Even");
         } else if (n == 5579) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5579) {
+        } else if (n == 5579) {
             System.out.print("Even");
         } else if (n == 5580) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5580) {
+        } else if (n == 5580) {
             System.out.print("Even");
         } else if (n == 5581) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5581) {
+        } else if (n == 5581) {
             System.out.print("Even");
         } else if (n == 5582) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5582) {
+        } else if (n == 5582) {
             System.out.print("Even");
         } else if (n == 5583) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5583) {
+        } else if (n == 5583) {
             System.out.print("Even");
         } else if (n == 5584) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5584) {
+        } else if (n == 5584) {
             System.out.print("Even");
         } else if (n == 5585) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5585) {
+        } else if (n == 5585) {
             System.out.print("Even");
         } else if (n == 5586) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5586) {
+        } else if (n == 5586) {
             System.out.print("Even");
         } else if (n == 5587) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5587) {
+        } else if (n == 5587) {
             System.out.print("Even");
         } else if (n == 5588) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5588) {
+        } else if (n == 5588) {
             System.out.print("Even");
         } else if (n == 5589) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5589) {
+        } else if (n == 5589) {
             System.out.print("Even");
         } else if (n == 5590) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5590) {
+        } else if (n == 5590) {
             System.out.print("Even");
         } else if (n == 5591) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5591) {
+        } else if (n == 5591) {
             System.out.print("Even");
         } else if (n == 5592) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5592) {
+        } else if (n == 5592) {
             System.out.print("Even");
         } else if (n == 5593) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5593) {
+        } else if (n == 5593) {
             System.out.print("Even");
         } else if (n == 5594) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5594) {
+        } else if (n == 5594) {
             System.out.print("Even");
         } else if (n == 5595) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5595) {
+        } else if (n == 5595) {
             System.out.print("Even");
         } else if (n == 5596) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5596) {
+        } else if (n == 5596) {
             System.out.print("Even");
         } else if (n == 5597) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5597) {
+        } else if (n == 5597) {
             System.out.print("Even");
         } else if (n == 5598) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5598) {
+        } else if (n == 5598) {
             System.out.print("Even");
         } else if (n == 5599) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5599) {
+        } else if (n == 5599) {
             System.out.print("Even");
         } else if (n == 5600) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5600) {
+        } else if (n == 5600) {
             System.out.print("Even");
         } else if (n == 5601) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5601) {
+        } else if (n == 5601) {
             System.out.print("Even");
         } else if (n == 5602) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5602) {
+        } else if (n == 5602) {
             System.out.print("Even");
         } else if (n == 5603) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5603) {
+        } else if (n == 5603) {
             System.out.print("Even");
         } else if (n == 5604) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5604) {
+        } else if (n == 5604) {
             System.out.print("Even");
         } else if (n == 5605) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5605) {
+        } else if (n == 5605) {
             System.out.print("Even");
         } else if (n == 5606) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5606) {
+        } else if (n == 5606) {
             System.out.print("Even");
         } else if (n == 5607) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5607) {
+        } else if (n == 5607) {
             System.out.print("Even");
         } else if (n == 5608) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5608) {
+        } else if (n == 5608) {
             System.out.print("Even");
         } else if (n == 5609) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5609) {
+        } else if (n == 5609) {
             System.out.print("Even");
         } else if (n == 5610) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5610) {
+        } else if (n == 5610) {
             System.out.print("Even");
         } else if (n == 5611) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5611) {
+        } else if (n == 5611) {
             System.out.print("Even");
         } else if (n == 5612) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5612) {
+        } else if (n == 5612) {
             System.out.print("Even");
         } else if (n == 5613) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5613) {
+        } else if (n == 5613) {
             System.out.print("Even");
         } else if (n == 5614) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5614) {
+        } else if (n == 5614) {
             System.out.print("Even");
         } else if (n == 5615) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5615) {
+        } else if (n == 5615) {
             System.out.print("Even");
         } else if (n == 5616) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5616) {
+        } else if (n == 5616) {
             System.out.print("Even");
         } else if (n == 5617) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5617) {
+        } else if (n == 5617) {
             System.out.print("Even");
         } else if (n == 5618) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5618) {
+        } else if (n == 5618) {
             System.out.print("Even");
         } else if (n == 5619) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5619) {
+        } else if (n == 5619) {
             System.out.print("Even");
         } else if (n == 5620) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5620) {
+        } else if (n == 5620) {
             System.out.print("Even");
         } else if (n == 5621) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5621) {
+        } else if (n == 5621) {
             System.out.print("Even");
         } else if (n == 5622) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5622) {
+        } else if (n == 5622) {
             System.out.print("Even");
         } else if (n == 5623) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5623) {
+        } else if (n == 5623) {
             System.out.print("Even");
         } else if (n == 5624) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5624) {
+        } else if (n == 5624) {
             System.out.print("Even");
         } else if (n == 5625) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5625) {
+        } else if (n == 5625) {
             System.out.print("Even");
         } else if (n == 5626) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5626) {
+        } else if (n == 5626) {
             System.out.print("Even");
         } else if (n == 5627) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5627) {
+        } else if (n == 5627) {
             System.out.print("Even");
         } else if (n == 5628) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5628) {
+        } else if (n == 5628) {
             System.out.print("Even");
         } else if (n == 5629) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5629) {
+        } else if (n == 5629) {
             System.out.print("Even");
         } else if (n == 5630) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5630) {
+        } else if (n == 5630) {
             System.out.print("Even");
         } else if (n == 5631) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5631) {
+        } else if (n == 5631) {
             System.out.print("Even");
         } else if (n == 5632) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5632) {
+        } else if (n == 5632) {
             System.out.print("Even");
         } else if (n == 5633) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5633) {
+        } else if (n == 5633) {
             System.out.print("Even");
         } else if (n == 5634) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5634) {
+        } else if (n == 5634) {
             System.out.print("Even");
         } else if (n == 5635) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5635) {
+        } else if (n == 5635) {
             System.out.print("Even");
         } else if (n == 5636) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5636) {
+        } else if (n == 5636) {
             System.out.print("Even");
         } else if (n == 5637) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5637) {
+        } else if (n == 5637) {
             System.out.print("Even");
         } else if (n == 5638) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5638) {
+        } else if (n == 5638) {
             System.out.print("Even");
         } else if (n == 5639) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5639) {
+        } else if (n == 5639) {
             System.out.print("Even");
         } else if (n == 5640) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5640) {
+        } else if (n == 5640) {
             System.out.print("Even");
         } else if (n == 5641) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5641) {
+        } else if (n == 5641) {
             System.out.print("Even");
         } else if (n == 5642) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5642) {
+        } else if (n == 5642) {
             System.out.print("Even");
         } else if (n == 5643) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5643) {
+        } else if (n == 5643) {
             System.out.print("Even");
         } else if (n == 5644) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5644) {
+        } else if (n == 5644) {
             System.out.print("Even");
         } else if (n == 5645) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5645) {
+        } else if (n == 5645) {
             System.out.print("Even");
         } else if (n == 5646) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5646) {
+        } else if (n == 5646) {
             System.out.print("Even");
         } else if (n == 5647) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5647) {
+        } else if (n == 5647) {
             System.out.print("Even");
         } else if (n == 5648) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5648) {
+        } else if (n == 5648) {
             System.out.print("Even");
         } else if (n == 5649) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5649) {
+        } else if (n == 5649) {
             System.out.print("Even");
         } else if (n == 5650) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5650) {
+        } else if (n == 5650) {
             System.out.print("Even");
         } else if (n == 5651) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5651) {
+        } else if (n == 5651) {
             System.out.print("Even");
         } else if (n == 5652) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5652) {
+        } else if (n == 5652) {
             System.out.print("Even");
         } else if (n == 5653) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5653) {
+        } else if (n == 5653) {
             System.out.print("Even");
         } else if (n == 5654) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5654) {
+        } else if (n == 5654) {
             System.out.print("Even");
         } else if (n == 5655) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5655) {
+        } else if (n == 5655) {
             System.out.print("Even");
         } else if (n == 5656) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5656) {
+        } else if (n == 5656) {
             System.out.print("Even");
         } else if (n == 5657) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5657) {
+        } else if (n == 5657) {
             System.out.print("Even");
         } else if (n == 5658) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5658) {
+        } else if (n == 5658) {
             System.out.print("Even");
         } else if (n == 5659) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5659) {
+        } else if (n == 5659) {
             System.out.print("Even");
         } else if (n == 5660) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5660) {
+        } else if (n == 5660) {
             System.out.print("Even");
         } else if (n == 5661) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5661) {
+        } else if (n == 5661) {
             System.out.print("Even");
         } else if (n == 5662) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5662) {
+        } else if (n == 5662) {
             System.out.print("Even");
         } else if (n == 5663) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5663) {
+        } else if (n == 5663) {
             System.out.print("Even");
         } else if (n == 5664) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5664) {
+        } else if (n == 5664) {
             System.out.print("Even");
         } else if (n == 5665) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5665) {
+        } else if (n == 5665) {
             System.out.print("Even");
         } else if (n == 5666) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5666) {
+        } else if (n == 5666) {
             System.out.print("Even");
         } else if (n == 5667) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5667) {
+        } else if (n == 5667) {
             System.out.print("Even");
         } else if (n == 5668) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5668) {
+        } else if (n == 5668) {
             System.out.print("Even");
         } else if (n == 5669) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5669) {
+        } else if (n == 5669) {
             System.out.print("Even");
         } else if (n == 5670) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5670) {
+        } else if (n == 5670) {
             System.out.print("Even");
         } else if (n == 5671) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5671) {
+        } else if (n == 5671) {
             System.out.print("Even");
         } else if (n == 5672) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5672) {
+        } else if (n == 5672) {
             System.out.print("Even");
         } else if (n == 5673) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5673) {
+        } else if (n == 5673) {
             System.out.print("Even");
         } else if (n == 5674) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5674) {
+        } else if (n == 5674) {
             System.out.print("Even");
         } else if (n == 5675) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5675) {
+        } else if (n == 5675) {
             System.out.print("Even");
         } else if (n == 5676) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5676) {
+        } else if (n == 5676) {
             System.out.print("Even");
         } else if (n == 5677) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5677) {
+        } else if (n == 5677) {
             System.out.print("Even");
         } else if (n == 5678) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5678) {
+        } else if (n == 5678) {
             System.out.print("Even");
         } else if (n == 5679) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5679) {
+        } else if (n == 5679) {
             System.out.print("Even");
         } else if (n == 5680) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5680) {
+        } else if (n == 5680) {
             System.out.print("Even");
         } else if (n == 5681) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5681) {
+        } else if (n == 5681) {
             System.out.print("Even");
         } else if (n == 5682) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5682) {
+        } else if (n == 5682) {
             System.out.print("Even");
         } else if (n == 5683) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5683) {
+        } else if (n == 5683) {
             System.out.print("Even");
         } else if (n == 5684) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5684) {
+        } else if (n == 5684) {
             System.out.print("Even");
         } else if (n == 5685) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5685) {
+        } else if (n == 5685) {
             System.out.print("Even");
         } else if (n == 5686) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5686) {
+        } else if (n == 5686) {
             System.out.print("Even");
         } else if (n == 5687) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5687) {
+        } else if (n == 5687) {
             System.out.print("Even");
         } else if (n == 5688) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5688) {
+        } else if (n == 5688) {
             System.out.print("Even");
         } else if (n == 5689) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5689) {
+        } else if (n == 5689) {
             System.out.print("Even");
         } else if (n == 5690) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5690) {
+        } else if (n == 5690) {
             System.out.print("Even");
         } else if (n == 5691) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5691) {
+        } else if (n == 5691) {
             System.out.print("Even");
         } else if (n == 5692) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5692) {
+        } else if (n == 5692) {
             System.out.print("Even");
         } else if (n == 5693) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5693) {
+        } else if (n == 5693) {
             System.out.print("Even");
         } else if (n == 5694) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5694) {
+        } else if (n == 5694) {
             System.out.print("Even");
         } else if (n == 5695) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5695) {
+        } else if (n == 5695) {
             System.out.print("Even");
         } else if (n == 5696) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5696) {
+        } else if (n == 5696) {
             System.out.print("Even");
         } else if (n == 5697) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5697) {
+        } else if (n == 5697) {
             System.out.print("Even");
         } else if (n == 5698) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5698) {
+        } else if (n == 5698) {
             System.out.print("Even");
         } else if (n == 5699) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5699) {
+        } else if (n == 5699) {
             System.out.print("Even");
         } else if (n == 5700) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5700) {
+        } else if (n == 5700) {
             System.out.print("Even");
         } else if (n == 5701) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5701) {
+        } else if (n == 5701) {
             System.out.print("Even");
         } else if (n == 5702) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5702) {
+        } else if (n == 5702) {
             System.out.print("Even");
         } else if (n == 5703) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5703) {
+        } else if (n == 5703) {
             System.out.print("Even");
         } else if (n == 5704) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5704) {
+        } else if (n == 5704) {
             System.out.print("Even");
         } else if (n == 5705) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5705) {
+        } else if (n == 5705) {
             System.out.print("Even");
         } else if (n == 5706) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5706) {
+        } else if (n == 5706) {
             System.out.print("Even");
         } else if (n == 5707) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5707) {
+        } else if (n == 5707) {
             System.out.print("Even");
         } else if (n == 5708) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5708) {
+        } else if (n == 5708) {
             System.out.print("Even");
         } else if (n == 5709) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5709) {
+        } else if (n == 5709) {
             System.out.print("Even");
         } else if (n == 5710) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5710) {
+        } else if (n == 5710) {
             System.out.print("Even");
         } else if (n == 5711) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5711) {
+        } else if (n == 5711) {
             System.out.print("Even");
         } else if (n == 5712) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5712) {
+        } else if (n == 5712) {
             System.out.print("Even");
         } else if (n == 5713) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5713) {
+        } else if (n == 5713) {
             System.out.print("Even");
         } else if (n == 5714) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5714) {
+        } else if (n == 5714) {
             System.out.print("Even");
         } else if (n == 5715) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5715) {
+        } else if (n == 5715) {
             System.out.print("Even");
         } else if (n == 5716) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5716) {
+        } else if (n == 5716) {
             System.out.print("Even");
         } else if (n == 5717) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5717) {
+        } else if (n == 5717) {
             System.out.print("Even");
         } else if (n == 5718) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5718) {
+        } else if (n == 5718) {
             System.out.print("Even");
         } else if (n == 5719) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5719) {
+        } else if (n == 5719) {
             System.out.print("Even");
         } else if (n == 5720) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5720) {
+        } else if (n == 5720) {
             System.out.print("Even");
         } else if (n == 5721) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5721) {
+        } else if (n == 5721) {
             System.out.print("Even");
         } else if (n == 5722) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5722) {
+        } else if (n == 5722) {
             System.out.print("Even");
         } else if (n == 5723) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5723) {
+        } else if (n == 5723) {
             System.out.print("Even");
         } else if (n == 5724) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5724) {
+        } else if (n == 5724) {
             System.out.print("Even");
         } else if (n == 5725) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5725) {
+        } else if (n == 5725) {
             System.out.print("Even");
         } else if (n == 5726) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5726) {
+        } else if (n == 5726) {
             System.out.print("Even");
         } else if (n == 5727) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5727) {
+        } else if (n == 5727) {
             System.out.print("Even");
         } else if (n == 5728) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5728) {
+        } else if (n == 5728) {
             System.out.print("Even");
         } else if (n == 5729) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5729) {
+        } else if (n == 5729) {
             System.out.print("Even");
         } else if (n == 5730) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5730) {
+        } else if (n == 5730) {
             System.out.print("Even");
         } else if (n == 5731) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5731) {
+        } else if (n == 5731) {
             System.out.print("Even");
         } else if (n == 5732) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5732) {
+        } else if (n == 5732) {
             System.out.print("Even");
         } else if (n == 5733) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5733) {
+        } else if (n == 5733) {
             System.out.print("Even");
         } else if (n == 5734) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5734) {
+        } else if (n == 5734) {
             System.out.print("Even");
         } else if (n == 5735) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5735) {
+        } else if (n == 5735) {
             System.out.print("Even");
         } else if (n == 5736) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5736) {
+        } else if (n == 5736) {
             System.out.print("Even");
         } else if (n == 5737) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5737) {
+        } else if (n == 5737) {
             System.out.print("Even");
         } else if (n == 5738) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5738) {
+        } else if (n == 5738) {
             System.out.print("Even");
         } else if (n == 5739) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5739) {
+        } else if (n == 5739) {
             System.out.print("Even");
         } else if (n == 5740) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5740) {
+        } else if (n == 5740) {
             System.out.print("Even");
         } else if (n == 5741) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5741) {
+        } else if (n == 5741) {
             System.out.print("Even");
         } else if (n == 5742) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5742) {
+        } else if (n == 5742) {
             System.out.print("Even");
         } else if (n == 5743) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5743) {
+        } else if (n == 5743) {
             System.out.print("Even");
         } else if (n == 5744) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5744) {
+        } else if (n == 5744) {
             System.out.print("Even");
         } else if (n == 5745) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5745) {
+        } else if (n == 5745) {
             System.out.print("Even");
         } else if (n == 5746) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5746) {
+        } else if (n == 5746) {
             System.out.print("Even");
         } else if (n == 5747) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5747) {
+        } else if (n == 5747) {
             System.out.print("Even");
         } else if (n == 5748) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5748) {
+        } else if (n == 5748) {
             System.out.print("Even");
         } else if (n == 5749) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5749) {
+        } else if (n == 5749) {
             System.out.print("Even");
         } else if (n == 5750) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5750) {
+        } else if (n == 5750) {
             System.out.print("Even");
         } else if (n == 5751) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5751) {
+        } else if (n == 5751) {
             System.out.print("Even");
         } else if (n == 5752) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5752) {
+        } else if (n == 5752) {
             System.out.print("Even");
         } else if (n == 5753) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5753) {
+        } else if (n == 5753) {
             System.out.print("Even");
         } else if (n == 5754) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5754) {
+        } else if (n == 5754) {
             System.out.print("Even");
         } else if (n == 5755) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5755) {
+        } else if (n == 5755) {
             System.out.print("Even");
         } else if (n == 5756) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5756) {
+        } else if (n == 5756) {
             System.out.print("Even");
         } else if (n == 5757) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5757) {
+        } else if (n == 5757) {
             System.out.print("Even");
         } else if (n == 5758) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5758) {
+        } else if (n == 5758) {
             System.out.print("Even");
         } else if (n == 5759) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5759) {
+        } else if (n == 5759) {
             System.out.print("Even");
         } else if (n == 5760) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5760) {
+        } else if (n == 5760) {
             System.out.print("Even");
         } else if (n == 5761) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5761) {
+        } else if (n == 5761) {
             System.out.print("Even");
         } else if (n == 5762) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5762) {
+        } else if (n == 5762) {
             System.out.print("Even");
         } else if (n == 5763) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5763) {
+        } else if (n == 5763) {
             System.out.print("Even");
         } else if (n == 5764) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5764) {
+        } else if (n == 5764) {
             System.out.print("Even");
         } else if (n == 5765) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5765) {
+        } else if (n == 5765) {
             System.out.print("Even");
         } else if (n == 5766) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5766) {
+        } else if (n == 5766) {
             System.out.print("Even");
         } else if (n == 5767) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5767) {
+        } else if (n == 5767) {
             System.out.print("Even");
         } else if (n == 5768) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5768) {
+        } else if (n == 5768) {
             System.out.print("Even");
         } else if (n == 5769) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5769) {
+        } else if (n == 5769) {
             System.out.print("Even");
         } else if (n == 5770) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5770) {
+        } else if (n == 5770) {
             System.out.print("Even");
         } else if (n == 5771) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5771) {
+        } else if (n == 5771) {
             System.out.print("Even");
         } else if (n == 5772) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5772) {
+        } else if (n == 5772) {
             System.out.print("Even");
         } else if (n == 5773) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5773) {
+        } else if (n == 5773) {
             System.out.print("Even");
         } else if (n == 5774) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5774) {
+        } else if (n == 5774) {
             System.out.print("Even");
         } else if (n == 5775) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5775) {
+        } else if (n == 5775) {
             System.out.print("Even");
         } else if (n == 5776) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5776) {
+        } else if (n == 5776) {
             System.out.print("Even");
         } else if (n == 5777) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5777) {
+        } else if (n == 5777) {
             System.out.print("Even");
         } else if (n == 5778) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5778) {
+        } else if (n == 5778) {
             System.out.print("Even");
         } else if (n == 5779) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5779) {
+        } else if (n == 5779) {
             System.out.print("Even");
         } else if (n == 5780) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5780) {
+        } else if (n == 5780) {
             System.out.print("Even");
         } else if (n == 5781) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5781) {
+        } else if (n == 5781) {
             System.out.print("Even");
         } else if (n == 5782) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5782) {
+        } else if (n == 5782) {
             System.out.print("Even");
         } else if (n == 5783) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5783) {
+        } else if (n == 5783) {
             System.out.print("Even");
         } else if (n == 5784) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5784) {
+        } else if (n == 5784) {
             System.out.print("Even");
         } else if (n == 5785) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5785) {
+        } else if (n == 5785) {
             System.out.print("Even");
         } else if (n == 5786) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5786) {
+        } else if (n == 5786) {
             System.out.print("Even");
         } else if (n == 5787) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5787) {
+        } else if (n == 5787) {
             System.out.print("Even");
         } else if (n == 5788) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5788) {
+        } else if (n == 5788) {
             System.out.print("Even");
         } else if (n == 5789) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5789) {
+        } else if (n == 5789) {
             System.out.print("Even");
         } else if (n == 5790) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5790) {
+        } else if (n == 5790) {
             System.out.print("Even");
         } else if (n == 5791) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5791) {
+        } else if (n == 5791) {
             System.out.print("Even");
         } else if (n == 5792) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5792) {
+        } else if (n == 5792) {
             System.out.print("Even");
         } else if (n == 5793) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5793) {
+        } else if (n == 5793) {
             System.out.print("Even");
         } else if (n == 5794) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5794) {
+        } else if (n == 5794) {
             System.out.print("Even");
         } else if (n == 5795) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5795) {
+        } else if (n == 5795) {
             System.out.print("Even");
         } else if (n == 5796) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5796) {
+        } else if (n == 5796) {
             System.out.print("Even");
         } else if (n == 5797) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5797) {
+        } else if (n == 5797) {
             System.out.print("Even");
         } else if (n == 5798) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5798) {
+        } else if (n == 5798) {
             System.out.print("Even");
         } else if (n == 5799) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5799) {
+        } else if (n == 5799) {
             System.out.print("Even");
         } else if (n == 5800) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5800) {
+        } else if (n == 5800) {
             System.out.print("Even");
         } else if (n == 5801) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5801) {
+        } else if (n == 5801) {
             System.out.print("Even");
         } else if (n == 5802) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5802) {
+        } else if (n == 5802) {
             System.out.print("Even");
         } else if (n == 5803) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5803) {
+        } else if (n == 5803) {
             System.out.print("Even");
         } else if (n == 5804) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5804) {
+        } else if (n == 5804) {
             System.out.print("Even");
         } else if (n == 5805) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5805) {
+        } else if (n == 5805) {
             System.out.print("Even");
         } else if (n == 5806) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5806) {
+        } else if (n == 5806) {
             System.out.print("Even");
         } else if (n == 5807) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5807) {
+        } else if (n == 5807) {
             System.out.print("Even");
         } else if (n == 5808) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5808) {
+        } else if (n == 5808) {
             System.out.print("Even");
         } else if (n == 5809) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5809) {
+        } else if (n == 5809) {
             System.out.print("Even");
         } else if (n == 5810) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5810) {
+        } else if (n == 5810) {
             System.out.print("Even");
         } else if (n == 5811) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5811) {
+        } else if (n == 5811) {
             System.out.print("Even");
         } else if (n == 5812) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5812) {
+        } else if (n == 5812) {
             System.out.print("Even");
         } else if (n == 5813) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5813) {
+        } else if (n == 5813) {
             System.out.print("Even");
         } else if (n == 5814) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5814) {
+        } else if (n == 5814) {
             System.out.print("Even");
         } else if (n == 5815) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5815) {
+        } else if (n == 5815) {
             System.out.print("Even");
         } else if (n == 5816) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5816) {
+        } else if (n == 5816) {
             System.out.print("Even");
         } else if (n == 5817) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5817) {
+        } else if (n == 5817) {
             System.out.print("Even");
         } else if (n == 5818) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5818) {
+        } else if (n == 5818) {
             System.out.print("Even");
         } else if (n == 5819) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5819) {
+        } else if (n == 5819) {
             System.out.print("Even");
         } else if (n == 5820) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5820) {
+        } else if (n == 5820) {
             System.out.print("Even");
         } else if (n == 5821) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5821) {
+        } else if (n == 5821) {
             System.out.print("Even");
         } else if (n == 5822) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5822) {
+        } else if (n == 5822) {
             System.out.print("Even");
         } else if (n == 5823) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5823) {
+        } else if (n == 5823) {
             System.out.print("Even");
         } else if (n == 5824) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5824) {
+        } else if (n == 5824) {
             System.out.print("Even");
         } else if (n == 5825) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5825) {
+        } else if (n == 5825) {
             System.out.print("Even");
         } else if (n == 5826) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5826) {
+        } else if (n == 5826) {
             System.out.print("Even");
         } else if (n == 5827) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5827) {
+        } else if (n == 5827) {
             System.out.print("Even");
         } else if (n == 5828) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5828) {
+        } else if (n == 5828) {
             System.out.print("Even");
         } else if (n == 5829) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5829) {
+        } else if (n == 5829) {
             System.out.print("Even");
         } else if (n == 5830) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5830) {
+        } else if (n == 5830) {
             System.out.print("Even");
         } else if (n == 5831) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5831) {
+        } else if (n == 5831) {
             System.out.print("Even");
         } else if (n == 5832) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5832) {
+        } else if (n == 5832) {
             System.out.print("Even");
         } else if (n == 5833) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5833) {
+        } else if (n == 5833) {
             System.out.print("Even");
         } else if (n == 5834) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5834) {
+        } else if (n == 5834) {
             System.out.print("Even");
         } else if (n == 5835) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5835) {
+        } else if (n == 5835) {
             System.out.print("Even");
         } else if (n == 5836) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5836) {
+        } else if (n == 5836) {
             System.out.print("Even");
         } else if (n == 5837) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5837) {
+        } else if (n == 5837) {
             System.out.print("Even");
         } else if (n == 5838) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5838) {
+        } else if (n == 5838) {
             System.out.print("Even");
         } else if (n == 5839) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5839) {
+        } else if (n == 5839) {
             System.out.print("Even");
         } else if (n == 5840) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5840) {
+        } else if (n == 5840) {
             System.out.print("Even");
         } else if (n == 5841) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5841) {
+        } else if (n == 5841) {
             System.out.print("Even");
         } else if (n == 5842) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5842) {
+        } else if (n == 5842) {
             System.out.print("Even");
         } else if (n == 5843) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5843) {
+        } else if (n == 5843) {
             System.out.print("Even");
         } else if (n == 5844) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5844) {
+        } else if (n == 5844) {
             System.out.print("Even");
         } else if (n == 5845) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5845) {
+        } else if (n == 5845) {
             System.out.print("Even");
         } else if (n == 5846) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5846) {
+        } else if (n == 5846) {
             System.out.print("Even");
         } else if (n == 5847) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5847) {
+        } else if (n == 5847) {
             System.out.print("Even");
         } else if (n == 5848) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5848) {
+        } else if (n == 5848) {
             System.out.print("Even");
         } else if (n == 5849) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5849) {
+        } else if (n == 5849) {
             System.out.print("Even");
         } else if (n == 5850) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5850) {
+        } else if (n == 5850) {
             System.out.print("Even");
         } else if (n == 5851) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5851) {
+        } else if (n == 5851) {
             System.out.print("Even");
         } else if (n == 5852) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5852) {
+        } else if (n == 5852) {
             System.out.print("Even");
         } else if (n == 5853) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5853) {
+        } else if (n == 5853) {
             System.out.print("Even");
         } else if (n == 5854) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5854) {
+        } else if (n == 5854) {
             System.out.print("Even");
         } else if (n == 5855) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5855) {
+        } else if (n == 5855) {
             System.out.print("Even");
         } else if (n == 5856) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5856) {
+        } else if (n == 5856) {
             System.out.print("Even");
         } else if (n == 5857) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5857) {
+        } else if (n == 5857) {
             System.out.print("Even");
         } else if (n == 5858) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5858) {
+        } else if (n == 5858) {
             System.out.print("Even");
         } else if (n == 5859) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5859) {
+        } else if (n == 5859) {
             System.out.print("Even");
         } else if (n == 5860) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5860) {
+        } else if (n == 5860) {
             System.out.print("Even");
         } else if (n == 5861) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5861) {
+        } else if (n == 5861) {
             System.out.print("Even");
         } else if (n == 5862) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5862) {
+        } else if (n == 5862) {
             System.out.print("Even");
         } else if (n == 5863) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5863) {
+        } else if (n == 5863) {
             System.out.print("Even");
         } else if (n == 5864) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5864) {
+        } else if (n == 5864) {
             System.out.print("Even");
         } else if (n == 5865) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5865) {
+        } else if (n == 5865) {
             System.out.print("Even");
         } else if (n == 5866) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5866) {
+        } else if (n == 5866) {
             System.out.print("Even");
         } else if (n == 5867) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5867) {
+        } else if (n == 5867) {
             System.out.print("Even");
         } else if (n == 5868) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5868) {
+        } else if (n == 5868) {
             System.out.print("Even");
         } else if (n == 5869) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5869) {
+        } else if (n == 5869) {
             System.out.print("Even");
         } else if (n == 5870) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5870) {
+        } else if (n == 5870) {
             System.out.print("Even");
         } else if (n == 5871) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5871) {
+        } else if (n == 5871) {
             System.out.print("Even");
         } else if (n == 5872) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5872) {
+        } else if (n == 5872) {
             System.out.print("Even");
         } else if (n == 5873) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5873) {
+        } else if (n == 5873) {
             System.out.print("Even");
         } else if (n == 5874) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5874) {
+        } else if (n == 5874) {
             System.out.print("Even");
         } else if (n == 5875) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5875) {
+        } else if (n == 5875) {
             System.out.print("Even");
         } else if (n == 5876) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5876) {
+        } else if (n == 5876) {
             System.out.print("Even");
         } else if (n == 5877) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5877) {
+        } else if (n == 5877) {
             System.out.print("Even");
         } else if (n == 5878) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5878) {
+        } else if (n == 5878) {
             System.out.print("Even");
         } else if (n == 5879) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5879) {
+        } else if (n == 5879) {
             System.out.print("Even");
         } else if (n == 5880) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5880) {
+        } else if (n == 5880) {
             System.out.print("Even");
         } else if (n == 5881) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5881) {
+        } else if (n == 5881) {
             System.out.print("Even");
         } else if (n == 5882) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5882) {
+        } else if (n == 5882) {
             System.out.print("Even");
         } else if (n == 5883) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5883) {
+        } else if (n == 5883) {
             System.out.print("Even");
         } else if (n == 5884) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5884) {
+        } else if (n == 5884) {
             System.out.print("Even");
         } else if (n == 5885) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5885) {
+        } else if (n == 5885) {
             System.out.print("Even");
         } else if (n == 5886) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5886) {
+        } else if (n == 5886) {
             System.out.print("Even");
         } else if (n == 5887) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5887) {
+        } else if (n == 5887) {
             System.out.print("Even");
         } else if (n == 5888) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5888) {
+        } else if (n == 5888) {
             System.out.print("Even");
         } else if (n == 5889) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5889) {
+        } else if (n == 5889) {
             System.out.print("Even");
         } else if (n == 5890) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5890) {
+        } else if (n == 5890) {
             System.out.print("Even");
         } else if (n == 5891) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5891) {
+        } else if (n == 5891) {
             System.out.print("Even");
         } else if (n == 5892) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5892) {
+        } else if (n == 5892) {
             System.out.print("Even");
         } else if (n == 5893) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5893) {
+        } else if (n == 5893) {
             System.out.print("Even");
         } else if (n == 5894) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5894) {
+        } else if (n == 5894) {
             System.out.print("Even");
         } else if (n == 5895) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5895) {
+        } else if (n == 5895) {
             System.out.print("Even");
         } else if (n == 5896) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5896) {
+        } else if (n == 5896) {
             System.out.print("Even");
         } else if (n == 5897) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5897) {
+        } else if (n == 5897) {
             System.out.print("Even");
         } else if (n == 5898) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5898) {
+        } else if (n == 5898) {
             System.out.print("Even");
         } else if (n == 5899) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5899) {
+        } else if (n == 5899) {
             System.out.print("Even");
         } else if (n == 5900) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5900) {
+        } else if (n == 5900) {
             System.out.print("Even");
         } else if (n == 5901) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5901) {
+        } else if (n == 5901) {
             System.out.print("Even");
         } else if (n == 5902) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5902) {
+        } else if (n == 5902) {
             System.out.print("Even");
         } else if (n == 5903) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5903) {
+        } else if (n == 5903) {
             System.out.print("Even");
         } else if (n == 5904) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5904) {
+        } else if (n == 5904) {
             System.out.print("Even");
         } else if (n == 5905) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5905) {
+        } else if (n == 5905) {
             System.out.print("Even");
         } else if (n == 5906) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5906) {
+        } else if (n == 5906) {
             System.out.print("Even");
         } else if (n == 5907) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5907) {
+        } else if (n == 5907) {
             System.out.print("Even");
         } else if (n == 5908) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5908) {
+        } else if (n == 5908) {
             System.out.print("Even");
         } else if (n == 5909) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5909) {
+        } else if (n == 5909) {
             System.out.print("Even");
         } else if (n == 5910) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5910) {
+        } else if (n == 5910) {
             System.out.print("Even");
         } else if (n == 5911) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5911) {
+        } else if (n == 5911) {
             System.out.print("Even");
         } else if (n == 5912) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5912) {
+        } else if (n == 5912) {
             System.out.print("Even");
         } else if (n == 5913) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5913) {
+        } else if (n == 5913) {
             System.out.print("Even");
         } else if (n == 5914) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5914) {
+        } else if (n == 5914) {
             System.out.print("Even");
         } else if (n == 5915) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5915) {
+        } else if (n == 5915) {
             System.out.print("Even");
         } else if (n == 5916) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5916) {
+        } else if (n == 5916) {
             System.out.print("Even");
         } else if (n == 5917) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5917) {
+        } else if (n == 5917) {
             System.out.print("Even");
         } else if (n == 5918) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5918) {
+        } else if (n == 5918) {
             System.out.print("Even");
         } else if (n == 5919) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5919) {
+        } else if (n == 5919) {
             System.out.print("Even");
         } else if (n == 5920) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5920) {
+        } else if (n == 5920) {
             System.out.print("Even");
         } else if (n == 5921) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5921) {
+        } else if (n == 5921) {
             System.out.print("Even");
         } else if (n == 5922) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5922) {
+        } else if (n == 5922) {
             System.out.print("Even");
         } else if (n == 5923) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5923) {
+        } else if (n == 5923) {
             System.out.print("Even");
         } else if (n == 5924) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5924) {
+        } else if (n == 5924) {
             System.out.print("Even");
         } else if (n == 5925) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5925) {
+        } else if (n == 5925) {
             System.out.print("Even");
         } else if (n == 5926) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5926) {
+        } else if (n == 5926) {
             System.out.print("Even");
         } else if (n == 5927) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5927) {
+        } else if (n == 5927) {
             System.out.print("Even");
         } else if (n == 5928) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5928) {
+        } else if (n == 5928) {
             System.out.print("Even");
         } else if (n == 5929) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5929) {
+        } else if (n == 5929) {
             System.out.print("Even");
         } else if (n == 5930) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5930) {
+        } else if (n == 5930) {
             System.out.print("Even");
         } else if (n == 5931) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5931) {
+        } else if (n == 5931) {
             System.out.print("Even");
         } else if (n == 5932) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5932) {
+        } else if (n == 5932) {
             System.out.print("Even");
         } else if (n == 5933) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5933) {
+        } else if (n == 5933) {
             System.out.print("Even");
         } else if (n == 5934) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5934) {
+        } else if (n == 5934) {
             System.out.print("Even");
         } else if (n == 5935) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5935) {
+        } else if (n == 5935) {
             System.out.print("Even");
         } else if (n == 5936) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5936) {
+        } else if (n == 5936) {
             System.out.print("Even");
         } else if (n == 5937) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5937) {
+        } else if (n == 5937) {
             System.out.print("Even");
         } else if (n == 5938) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5938) {
+        } else if (n == 5938) {
             System.out.print("Even");
         } else if (n == 5939) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5939) {
+        } else if (n == 5939) {
             System.out.print("Even");
         } else if (n == 5940) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5940) {
+        } else if (n == 5940) {
             System.out.print("Even");
         } else if (n == 5941) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5941) {
+        } else if (n == 5941) {
             System.out.print("Even");
         } else if (n == 5942) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5942) {
+        } else if (n == 5942) {
             System.out.print("Even");
         } else if (n == 5943) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5943) {
+        } else if (n == 5943) {
             System.out.print("Even");
         } else if (n == 5944) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5944) {
+        } else if (n == 5944) {
             System.out.print("Even");
         } else if (n == 5945) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5945) {
+        } else if (n == 5945) {
             System.out.print("Even");
         } else if (n == 5946) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5946) {
+        } else if (n == 5946) {
             System.out.print("Even");
         } else if (n == 5947) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5947) {
+        } else if (n == 5947) {
             System.out.print("Even");
         } else if (n == 5948) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5948) {
+        } else if (n == 5948) {
             System.out.print("Even");
         } else if (n == 5949) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5949) {
+        } else if (n == 5949) {
             System.out.print("Even");
         } else if (n == 5950) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5950) {
+        } else if (n == 5950) {
             System.out.print("Even");
         } else if (n == 5951) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5951) {
+        } else if (n == 5951) {
             System.out.print("Even");
         } else if (n == 5952) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5952) {
+        } else if (n == 5952) {
             System.out.print("Even");
         } else if (n == 5953) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5953) {
+        } else if (n == 5953) {
             System.out.print("Even");
         } else if (n == 5954) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5954) {
+        } else if (n == 5954) {
             System.out.print("Even");
         } else if (n == 5955) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5955) {
+        } else if (n == 5955) {
             System.out.print("Even");
         } else if (n == 5956) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5956) {
+        } else if (n == 5956) {
             System.out.print("Even");
         } else if (n == 5957) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5957) {
+        } else if (n == 5957) {
             System.out.print("Even");
         } else if (n == 5958) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5958) {
+        } else if (n == 5958) {
             System.out.print("Even");
         } else if (n == 5959) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5959) {
+        } else if (n == 5959) {
             System.out.print("Even");
         } else if (n == 5960) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5960) {
+        } else if (n == 5960) {
             System.out.print("Even");
         } else if (n == 5961) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5961) {
+        } else if (n == 5961) {
             System.out.print("Even");
         } else if (n == 5962) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5962) {
+        } else if (n == 5962) {
             System.out.print("Even");
         } else if (n == 5963) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5963) {
+        } else if (n == 5963) {
             System.out.print("Even");
         } else if (n == 5964) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5964) {
+        } else if (n == 5964) {
             System.out.print("Even");
         } else if (n == 5965) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5965) {
+        } else if (n == 5965) {
             System.out.print("Even");
         } else if (n == 5966) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5966) {
+        } else if (n == 5966) {
             System.out.print("Even");
         } else if (n == 5967) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5967) {
+        } else if (n == 5967) {
             System.out.print("Even");
         } else if (n == 5968) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5968) {
+        } else if (n == 5968) {
             System.out.print("Even");
         } else if (n == 5969) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5969) {
+        } else if (n == 5969) {
             System.out.print("Even");
         } else if (n == 5970) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5970) {
+        } else if (n == 5970) {
             System.out.print("Even");
         } else if (n == 5971) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5971) {
+        } else if (n == 5971) {
             System.out.print("Even");
         } else if (n == 5972) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5972) {
+        } else if (n == 5972) {
             System.out.print("Even");
         } else if (n == 5973) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5973) {
+        } else if (n == 5973) {
             System.out.print("Even");
         } else if (n == 5974) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5974) {
+        } else if (n == 5974) {
             System.out.print("Even");
         } else if (n == 5975) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5975) {
+        } else if (n == 5975) {
             System.out.print("Even");
         } else if (n == 5976) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5976) {
+        } else if (n == 5976) {
             System.out.print("Even");
         } else if (n == 5977) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5977) {
+        } else if (n == 5977) {
             System.out.print("Even");
         } else if (n == 5978) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5978) {
+        } else if (n == 5978) {
             System.out.print("Even");
         } else if (n == 5979) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5979) {
+        } else if (n == 5979) {
             System.out.print("Even");
         } else if (n == 5980) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5980) {
+        } else if (n == 5980) {
             System.out.print("Even");
         } else if (n == 5981) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5981) {
+        } else if (n == 5981) {
             System.out.print("Even");
         } else if (n == 5982) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5982) {
+        } else if (n == 5982) {
             System.out.print("Even");
         } else if (n == 5983) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5983) {
+        } else if (n == 5983) {
             System.out.print("Even");
         } else if (n == 5984) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5984) {
+        } else if (n == 5984) {
             System.out.print("Even");
         } else if (n == 5985) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5985) {
+        } else if (n == 5985) {
             System.out.print("Even");
         } else if (n == 5986) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5986) {
+        } else if (n == 5986) {
             System.out.print("Even");
         } else if (n == 5987) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5987) {
+        } else if (n == 5987) {
             System.out.print("Even");
         } else if (n == 5988) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5988) {
+        } else if (n == 5988) {
             System.out.print("Even");
         } else if (n == 5989) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5989) {
+        } else if (n == 5989) {
             System.out.print("Even");
         } else if (n == 5990) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5990) {
+        } else if (n == 5990) {
             System.out.print("Even");
         } else if (n == 5991) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5991) {
+        } else if (n == 5991) {
             System.out.print("Even");
         } else if (n == 5992) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5992) {
+        } else if (n == 5992) {
             System.out.print("Even");
         } else if (n == 5993) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5993) {
+        } else if (n == 5993) {
             System.out.print("Even");
         } else if (n == 5994) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5994) {
+        } else if (n == 5994) {
             System.out.print("Even");
         } else if (n == 5995) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5995) {
+        } else if (n == 5995) {
             System.out.print("Even");
         } else if (n == 5996) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5996) {
+        } else if (n == 5996) {
             System.out.print("Even");
         } else if (n == 5997) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5997) {
+        } else if (n == 5997) {
             System.out.print("Even");
         } else if (n == 5998) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5998) {
+        } else if (n == 5998) {
             System.out.print("Even");
         } else if (n == 5999) {
             System.out.print("Odd");
-        }
-
-        else if (n == 5999) {
+        } else if (n == 5999) {
             System.out.print("Even");
         } else if (n == 6000) {
             System.out.print("Odd");
