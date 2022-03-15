@@ -25,3 +25,5 @@ Yes, feel free to use this code on your codebases.
 #### Q. What is the time complexity of this code?
 
 This is the fastest code to check if number is even or odd, it takes linear time.
+
+## PS. This is a fkn joke!!!
