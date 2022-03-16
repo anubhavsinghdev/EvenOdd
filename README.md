@@ -7,9 +7,10 @@ Feel free to add code in other language as well.
 
 
 
-## Authors
+## Author and Contributors
 
 - [@singhanubhavme](https://www.github.com/singhanubhavme)
+- [@axhaar](https://www.github.com/axhaar)
 
 
 ## FAQ
