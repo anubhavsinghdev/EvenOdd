@@ -28,3 +28,10 @@ Yes, feel free to use this code on your codebases.
 This is the fastest code to check if number is even or odd, it takes linear time.
 
 ## PS. This is a fkn joke!!!
+<br>
+<br>
+
+# Checkout -> How were these codes written?
+https://github.com/singhanubhavme/How-I-Wrote-Large-IF-ELSE-Programs
+
+---
